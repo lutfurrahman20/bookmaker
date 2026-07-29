@@ -1,0 +1,25 @@
+[
+  {
+    "limit": null,
+    "tournament": "US DEBATE PROPS -",
+    "betlink": null,
+    "sgp": null,
+    "league": "US DEBATE PROPS -",
+    "bet_occurence": null,
+    "start_date": null,
+    "home_short": null,
+    "internal_betlink": null,
+    "away_brief": null,
+    "bet_player": null,
+    "home": null,
+    "home_brief": null,
+    "is_main": true,
+    "away": null,
+    "away_short": null,
+    "book": "BookMaker",
+    "am_odds": 4200,
+    "bet_team": "HAND TICKET",
+    "market": "Futures",
+    "line": null
+  }
+]

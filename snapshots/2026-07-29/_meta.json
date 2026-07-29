@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-29",
+  "taken_at": "2026-07-29T09:09:11.923485+00:00",
+  "categories": {
+    "live": {
+      "status": "saved",
+      "files": 11,
+      "records": 183
+    },
+    "pregame": {
+      "status": "saved",
+      "files": 158,
+      "records": 6879
+    },
+    "futures": {
+      "status": "saved",
+      "files": 135,
+      "records": 3195
+    }
+  }
+}

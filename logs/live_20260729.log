@@ -1,0 +1,1395 @@
+12:01:26 [INFO] Discovering game-line URLs…
+12:01:28 [INFO] Found 176 game-line URLs
+12:01:28 [INFO] [1/176] https://lines.bookmaker.eu/en/sports/basketball/wnba/
+12:01:28 [INFO]            → 12 records
+12:01:29 [INFO] [2/176] https://lines.bookmaker.eu/en/sports/basketball/big-3-league/
+12:01:30 [INFO]            → 0 records
+12:01:30 [INFO] [3/176] https://lines.bookmaker.eu/en/sports/basketball/bk-puerto-rico-superior-nacional/
+12:01:31 [INFO]            → 0 records
+12:01:31 [INFO] [4/176] https://lines.bookmaker.eu/en/sports/football/nfl/
+12:01:32 [INFO]            → 102 records
+12:01:32 [INFO] [5/176] https://lines.bookmaker.eu/en/sports/football/nfl-preseason/
+12:01:33 [INFO]            → 0 records
+12:01:33 [INFO] [6/176] https://lines.bookmaker.eu/en/sports/football/college-football/
+12:01:34 [INFO]            → 294 records
+12:01:35 [INFO] [7/176] https://lines.bookmaker.eu/en/sports/football/cfl-canadian-football/
+12:01:35 [INFO]            → 16 records
+12:01:36 [INFO] [8/176] https://lines.bookmaker.eu/en/sports/baseball/mlb/
+12:01:36 [INFO]            → 72 records
+12:01:37 [INFO] [9/176] https://lines.bookmaker.eu/en/sports/baseball/mlb-series/
+12:01:37 [INFO]            → 6 records
+12:01:38 [INFO] [10/176] https://lines.bookmaker.eu/en/sports/baseball/taiwan-cpbl/
+12:01:38 [INFO]            → 18 records
+12:01:39 [INFO] [11/176] https://lines.bookmaker.eu/en/sports/baseball/japan-npb-all-star/
+12:01:39 [INFO]            → 6 records
+12:01:40 [INFO] [12/176] https://lines.bookmaker.eu/en/sports/baseball/korea-rep-kbo-league/
+12:01:41 [INFO]            → 24 records
+12:01:41 [INFO] [13/176] https://lines.bookmaker.eu/en/sports/baseball/mexican-baseball-lmb/
+12:01:42 [INFO]            → 0 records
+12:01:42 [INFO] [14/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-top-5/
+12:01:43 [INFO]            → 0 records
+12:01:43 [INFO] [15/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-matchups/
+12:01:44 [INFO]            → 136 records
+12:01:45 [INFO] [16/176] https://lines.bookmaker.eu/en/sports/golf/lpga-aig-women-s-open-matchups/
+12:01:46 [INFO]            → 30 records
+12:01:46 [INFO] [17/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-make-the-cut/
+12:01:47 [INFO]            → 0 records
+12:01:47 [INFO] [18/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-round-leader/
+12:01:47 [INFO]            → 0 records
+12:01:48 [INFO] [19/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-round-matchups/
+12:01:49 [INFO]            → 120 records
+12:01:49 [INFO] [20/176] https://lines.bookmaker.eu/en/sports/mma/mma-ufc/
+12:01:50 [INFO]            → 50 records
+12:01:50 [INFO] [21/176] https://lines.bookmaker.eu/en/sports/boxing/boxing/
+12:01:51 [INFO]            → 14 records
+12:01:51 [INFO] [22/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls/
+12:01:52 [INFO]            → 105 records
+12:01:52 [INFO] [23/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls-all-star/
+12:01:53 [INFO]            → 7 records
+12:01:54 [INFO] [24/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-northern-nsw/
+12:01:54 [INFO]            → 7 records
+12:01:54 [INFO] [25/176] https://lines.bookmaker.eu/en/sports/soccer/hungary-nb-1/
+12:01:55 [INFO]            → 40 records
+12:01:55 [INFO] [26/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-copa/
+12:01:56 [INFO]            → 0 records
+12:01:56 [INFO] [27/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-cup/
+12:01:57 [INFO]            → 26 records
+12:01:57 [INFO] [28/176] https://lines.bookmaker.eu/en/sports/soccer/club-friendly/
+12:01:58 [INFO]            → 225 records
+12:01:59 [INFO] [29/176] https://lines.bookmaker.eu/en/sports/soccer/poland-liga-i/
+12:01:59 [INFO]            → 26 records
+12:02:00 [INFO] [30/176] https://lines.bookmaker.eu/en/sports/soccer/spain-la-liga/
+12:02:01 [INFO]            → 68 records
+12:02:01 [INFO] [31/176] https://lines.bookmaker.eu/en/sports/soccer/italy-serie-a/
+12:02:02 [INFO]            → 68 records
+12:02:02 [INFO] [32/176] https://lines.bookmaker.eu/en/sports/soccer/usa-nwsl-women/
+12:02:03 [INFO]            → 35 records
+12:02:03 [INFO] [33/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-super-cup/
+12:02:04 [INFO]            → 7 records
+12:02:05 [INFO] [34/176] https://lines.bookmaker.eu/en/sports/soccer/germany-3-liga/
+12:02:05 [INFO]            → 34 records
+12:02:06 [INFO] [35/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-serie-a/
+12:02:06 [INFO]            → 108 records
+12:12:02:07 [INFO] Found 176 game-line URLs
+12:02:07 [INFO] [1/176] https://lines.boo12:02:07 [INFO]            → 100 rec12:02:08 [INFO]            → 12 records
+12:02:08 [INFO] [2/176] https://lines.bookmaker.e12:02:08 [INFO]            → 7 recor12:02:09 [INFO]            → 0 records
+12:02:09 [INFO] [3/176] https://lines.bookmaker.e12:02:10 [INFO]            → 27 records
+12:02:10 [INFO]12:02:11 [INFO]            → 0 records
+12:02:11 [INFO] [4/176] https://lines.bookmaker.eu/en/sports/football/nfl/
+12:02:12 [INFO]            → 102 records
+12:02:12 [INFO] [5/176] https://lines.bookmaker.eu/en/sports/football/nfl-preseason/
+12:02:13 [INFO]            → 0 records
+12:02:14 [INFO] [6/176] https://lines.bookmaker.eu/en/sports/football/college-football/
+12:02:14 [INFO]            → 294 records
+12:02:15 [INFO] [7/176] https://lines.bookmaker.eu/en/sports/football/cfl-canadian-football/
+12:02:16 [INFO]            → 16 records
+12:02:16 [INFO] [8/176] https://lines.bookmaker.eu/en/sports/baseball/mlb/
+12:02:17 [INFO]            → 72 records
+12:02:18 [INFO] [9/176] https://lines.bookmaker.eu/en/sports/baseball/mlb-series/
+12:02:18 [INFO]            → 6 records
+12:02:19 [INFO] [10/176] https://lines.bookmaker.eu/en/sports/baseball/taiwan-cpbl/
+12:02:19 [INFO]            → 18 records
+12:02:20 [INFO] [11/176] https://lines.bookmaker.eu/en/sports/baseball/japan-npb-all-star/
+12:02:20 [INFO]            → 6 records
+12:02:21 [INFO] [12/176] https://lines.bookmaker.eu/en/sports/baseball/korea-rep-kbo-league/
+12:02:21 [INFO]            → 24 records
+12:02:22 [INFO] [13/176] https://lines.bookmaker.eu/en/sports/baseball/mexican-baseball-lmb/
+12:02:22 [INFO]            → 0 records
+12:02:22 [INFO] [14/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-top-5/
+12:02:23 [INFO]            → 0 records
+12:02:24 [INFO] [15/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-matchups/
+12:02:25 [INFO]            → 136 records
+12:02:26 [INFO] [16/176] https://lines.bookmaker.eu/en/sports/golf/lpga-aig-women-s-open-matchups/
+12:02:26 [INFO]            → 30 records
+12:02:27 [INFO] [17/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-make-the-cut/
+12:02:27 [INFO]            → 0 records
+12:02:27 [INFO] [18/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-round-leader/
+12:02:28 [INFO]            → 0 records
+12:02:28 [INFO] [19/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-round-matchups/
+12:02:29 [INFO]            → 120 records
+12:02:30 [INFO] [20/176] https://lines.bookmaker.eu/en/sports/mma/mma-ufc/
+12:02:31 [INFO]            → 50 records
+12:02:31 [INFO] [21/176] https://lines.bookmaker.eu/en/sports/boxing/boxing/
+12:02:32 [INFO]            → 14 records
+12:02:32 [INFO] [22/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls/
+12:02:33 [INFO]            → 105 records
+12:02:33 [INFO] [23/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls-all-star/
+12:02:34 [INFO]            → 7 records
+12:02:34 [INFO] [24/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-northern-nsw/
+12:02:35 [INFO]            → 7 records
+12:02:36 [INFO] [25/176] https://lines.bookmaker.eu/en/sports/soccer/hungary-nb-1/
+12:02:36 [INFO]            → 40 records
+12:02:37 [INFO] [26/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-copa/
+12:02:37 [INFO]            → 0 records
+12:02:38 [INFO] [27/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-cup/
+12:02:38 [INFO]            → 26 records
+12:02:39 [INFO] [28/176] https://lines.bookmaker.eu/en/sports/soccer/club-friendly/
+12:02:40 [INFO]            → 225 records
+12:02:41 [INFO] [29/176] https://lines.bookmaker.eu/en/sports/soccer/poland-liga-i/
+12:02:41 [INFO]            → 26 records
+12:02:42 [INFO] [30/176] https://lines.bookmaker.eu/en/sports/soccer/spain-la-liga/
+12:02:42 [INFO]            → 68 records
+12:02:43 [INFO] [31/176] https://lines.bookmaker.eu/en/sports/soccer/italy-serie-a/
+12:02:44 [INFO]            → 68 records
+12:02:45 [INFO] [32/176] https://lines.bookmaker.eu/en/sports/soccer/usa-nwsl-women/
+12:02:45 [INFO]            → 35 records
+12:02:46 [INFO] [33/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-super-cup/
+12:02:47 [INFO]            → 7 records
+12:02:48 [INFO] [34/176] https://lines.bookmaker.eu/en/sports/soccer/germany-3-liga/
+12:02:49 [INFO]            → 34 records
+12:02:49 [INFO] [35/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-serie-a/
+12:02:50 [INFO]            → 108 records
+12:02:50 [INFO] [36/176] https://lines.bookmaker.eu/en/sports/soccer/romania-liga-1/
+12:02:51 [INFO]            → 100 records
+12:02:51 [INFO] [37/176] https://lines.bookmaker.eu/en/sports/soccer/uzbekistan-pfl/
+12:02:51 [INFO]            → 7 records
+12:02:52 [INFO] [38/176] https://lines.bookmaker.eu/en/sports/soccer/latvia-virsliga/
+12:02:52 [INFO]            → 27 records
+12:02:53 [INFO] [39/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkonen/
+12:02:54 [INFO]            → 35 records
+12:02:54 [INFO] [40/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-1-deild/
+12:02:55 [INFO]            → 28 records
+12:02:55 [INFO] [41/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-1-liga/
+12:02:56 [INFO]            → 61 records
+12:02:57 [INFO] [42/176] https://lines.bookmaker.eu/en/sports/soccer/england-efl-cup/
+12:02:58 [INFO]            → 231 records
+12:02:59 [INFO] [43/176] https://lines.bookmaker.eu/en/sports/soccer/lithuania-a-lyga/
+12:02:59 [INFO]            → 19 records
+12:03:00 [INFO] [44/176] https://lines.bookmaker.eu/en/sports/soccer/montenegro-1-cfl/
+12:03:00 [INFO]            → 35 records
+12:03:00 [INFO] [45/176] https://lines.bookmaker.eu/en/sports/soccer/copa-sudamericana/
+12:03:01 [INFO]            → 84 records
+12:03:02 [INFO] [46/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-super-cup/
+12:03:02 [INFO]            → 7 records
+12:03:02 [INFO] [47/176] https://lines.bookmaker.eu/en/sports/soccer/norway-1-division/
+12:03:03 [INFO]            → 52 records
+12:03:03 [INFO] [48/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-superettan/
+12:03:04 [INFO]            → 54 records
+12:03:05 [INFO] [49/176] https://lines.bookmaker.eu/en/sports/soccer/china-superleague/
+12:03:05 [INFO]            → 54 records
+12:03:06 [INFO] [50/176] https://lines.bookmaker.eu/en/sports/soccer/copa-libertadores/
+12:03:06 [INFO]            → 52 records
+12:03:07 [INFO] [51/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-fa-cup/
+12:03:07 [INFO]            → 82 records
+12:03:08 [INFO] [52/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-league/
+12:03:09 [INFO]            → 122 records
+12:03:09 [INFO] [53/176] https://lines.bookmaker.eu/en/sports/soccer/slovenia-prva-liga/
+12:03:10 [INFO]            → 33 records
+12:03:10 [INFO] [54/176] https://lines.bookmaker.eu/en/sports/soccer/slovakia-superliga/
+12:03:11 [INFO]            → 42 records
+12:03:11 [INFO] [55/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-supercup/
+12:03:12 [INFO]            → 0 records
+12:03:13 [INFO] [56/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkosliiga/
+12:03:13 [INFO]            → 33 records
+12:03:14 [INFO] [57/176] https://lines.bookmaker.eu/en/sports/soccer/poland-ekstraklasa/
+12:03:15 [INFO]            → 56 records
+12:03:16 [INFO] [58/176] https://lines.bookmaker.eu/en/sports/soccer/austria-erste-liga/
+12:03:16 [INFO]            → 54 records
+12:03:17 [INFO] [59/176] https://lines.bookmaker.eu/en/sports/soccer/austria-bundesliga/
+12:03:17 [INFO]            → 40 records
+12:03:18 [INFO] [60/176] https://lines.bookmaker.eu/en/sports/soccer/germany-bundesliga/
+12:03:18 [INFO]            → 63 records
+12:03:19 [INFO] [61/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-allsvenskan/
+12:03:20 [INFO]            → 42 records
+12:03:20 [INFO] [62/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-sas-ligaen/
+12:03:21 [INFO]            → 42 records
+12:03:22 [INFO] [63/176] https://lines.bookmaker.eu/en/sports/soccer/norway-eliteserien/
+12:03:22 [INFO]            → 56 records
+12:03:23 [INFO] [64/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-super-cup/
+12:03:24 [INFO]            → 7 records
+12:03:24 [INFO] [65/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-besta-deild/
+12:03:25 [INFO]            → 40 records
+12:03:25 [INFO] [66/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-liga-serie-a/
+12:03:26 [INFO]            → 47 records
+12:03:26 [INFO] [67/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-premiership/
+12:03:27 [INFO]            → 42 records
+12:03:28 [INFO] [68/176] https://lines.bookmaker.eu/en/sports/soccer/usa-usl-championship/
+12:03:29 [INFO]            → 96 records
+12:03:29 [INFO] [69/176] https://lines.bookmaker.eu/en/sports/soccer/croatia-hnl-league-1/
+12:03:30 [INFO]            → 26 records
+12:03:30 [INFO] [70/176] https://lines.bookmaker.eu/en/sports/soccer/estonia-meistriliiga/
+12:03:31 [INFO]            → 38 records
+12:03:32 [INFO] [71/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-1st-division/
+12:03:32 [INFO]            → 36 records
+12:03:33 [INFO] [72/176] https://lines.bookmaker.eu/en/sports/soccer/chile-copa-de-la-liga/
+12:03:34 [INFO]            → 0 records
+12:03:35 [INFO] [73/176] https://lines.bookmaker.eu/en/sports/soccer/belarus-vysshaya-liga/
+12:03:35 [INFO]            → 33 records
+12:03:36 [INFO] [74/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-copa-do-brasil/
+12:03:36 [INFO]            → 56 records
+12:03:37 [INFO] [75/176] https://lines.bookmaker.eu/en/sports/soccer/canada-premier-league/
+12:03:37 [INFO]            → 26 records
+12:03:38 [INFO] [76/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-champions-league/
+12:03:38 [INFO]            → 115 records
+12:03:39 [INFO] [77/176] https://lines.bookmaker.eu/en/sports/soccer/finland-veikkausliiga/
+12:03:40 [INFO]            → 38 records
+12:03:40 [INFO] [78/176] https://lines.bookmaker.eu/en/sports/soccer/russia-premier-league/
+12:03:41 [INFO]            → 108 records
+12:03:41 [INFO] [79/176] https://lines.bookmaker.eu/en/sports/soccer/romania-cupa-romaniei/
+12:03:42 [INFO]            → 55 records
+12:03:42 [INFO] [80/176] https://lines.bookmaker.eu/en/sports/soccer/peru-primera-division/
+12:03:43 [INFO]            → 64 records
+12:03:43 [INFO] [81/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-championship/
+12:03:44 [INFO]            → 12 records
+12:03:44 [INFO] [82/176] https://lines.bookmaker.eu/en/sports/soccer/germany-2nd-bundesliga/
+12:03:45 [INFO]            → 63 records
+12:03:46 [INFO] [83/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-victoria/
+12:03:47 [INFO]            → 14 records
+12:03:47 [INFO] [84/176] https://lines.bookmaker.eu/en/sports/soccer/chile-primera-division/
+12:03:48 [INFO]            → 50 records
+12:03:48 [INFO] [85/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-first-division/
+12:03:50 [INFO]            → 33 records
+12:03:51 [INFO] [86/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-eredivisie/
+12:03:52 [INFO]            → 61 records
+12:03:52 [INFO] [87/176] https://lines.bookmaker.eu/en/sports/soccer/paraguay-copa-paraguay/
+12:03:53 [INFO]            → 14 records
+12:03:53 [INFO] [88/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-jupiler-league/
+12:03:54 [INFO]            → 63 records
+12:03:54 [INFO] [89/176] https://lines.bookmaker.eu/en/sports/soccer/england-premier-league/
+12:03:55 [INFO]            → 68 records
+12:03:55 [INFO] [90/176] https://lines.bookmaker.eu/en/sports/soccer/australia-australia-cup/
+12:03:56 [INFO]            → 14 records
+12:03:56 [INFO] [91/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-challenge/
+12:03:57 [INFO]            → 52 records
+12:03:57 [INFO] [92/176] https://lines.bookmaker.eu/en/sports/soccer/england-national-league/
+12:03:58 [INFO]            → 82 records
+12:03:59 [INFO] [93/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-mx-apertura/
+12:04:01 [INFO]            → 57 records
+12:04:01 [INFO] [94/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-premier-division/
+12:04:02 [INFO]            → 35 records
+12:04:02 [INFO] [95/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-super-league/
+12:04:03 [INFO]            → 40 records
+12:04:03 [INFO] [96/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-copa-argentina/
+12:04:05 [INFO]            → 0 records
+12:04:05 [INFO] [97/176] https://lines.bookmaker.eu/en/sports/soccer/uruguay-primera-division/
+12:04:06 [INFO]            → 56 records
+12:04:07 [INFO] [98/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-queensland/
+12:04:08 [INFO]            → 12 records
+12:04:08 [INFO] [99/176] https://lines.bookmaker.eu/en/sports/soccer/u20-concacaf-championship/
+12:04:09 [INFO]            → 12 records
+12:04:09 [INFO] [100/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-primera-division/
+12:04:11 [INFO]            → 161 records
+12:04:12 [INFO] [101/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-primera-nacional/
+12:04:13 [INFO]            → 106 records
+12:04:14 [INFO] [102/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-primera-a-clausura/
+12:04:14 [INFO]            → 61 records
+12:04:15 [INFO] [103/176] https://lines.bookmaker.eu/en/sports/soccer/faroe-island-premier-league/
+12:04:15 [INFO]            → 3 records
+12:04:16 [INFO] [104/176] https://lines.bookmaker.eu/en/sports/soccer/africa-cup-of-nations-women/
+12:04:16 [INFO]            → 14 records
+12:04:17 [INFO] [105/176] https://lines.bookmaker.eu/en/sports/soccer/south-africa-premier-league/
+12:04:17 [INFO]            → 47 records
+12:04:18 [INFO] [106/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-wk-league-women/
+12:04:18 [INFO]            → 7 records
+12:04:19 [INFO] [107/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-challenge-league/
+12:04:19 [INFO]            → 33 records
+12:04:20 [INFO] [108/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-league-classic/
+12:04:20 [INFO]            → 40 records
+12:04:21 [INFO] [109/176] https://lines.bookmaker.eu/en/sports/soccer/concacaf-central-american-cup/
+12:04:21 [INFO]            → 21 records
+12:04:22 [INFO] [110/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-conference-league/
+12:04:23 [INFO]            → 313 records
+12:04:23 [INFO] [111/176] https://lines.bookmaker.eu/en/sports/soccer/czech-republic-gambrinus-liga/
+12:04:24 [INFO]            → 52 records
+12:04:24 [INFO] [112/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-capital-football/
+12:04:25 [INFO]            → 7 records
+12:04:25 [INFO] [113/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-johan-cruyff-shield/
+12:04:26 [INFO]            → 7 records
+12:04:27 [INFO] [114/176] https://lines.bookmaker.eu/en/sports/soccer/russia-football-national-league/
+12:04:27 [INFO]            → 40 records
+12:04:28 [INFO] [115/176] https://lines.bookmaker.eu/en/sports/soccer/costa-rica-1st-division-apertura/
+12:04:28 [INFO]            → 21 records
+12:04:29 [INFO] [116/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-expansion-mx-apertura/
+12:04:29 [INFO]            → 50 records
+12:04:30 [INFO] [117/176] https://lines.bookmaker.eu/en/sports/soccer/el-salvador-1st-division-apertura/
+12:04:30 [INFO]            → 14 records
+12:04:31 [INFO] [118/176] https://lines.bookmaker.eu/en/sports/soccer/bulgaria-first-professional-league/
+12:04:31 [INFO]            → 47 records
+12:04:32 [INFO] [119/176] https://lines.bookmaker.eu/en/sports/soccer/central-american-and-caribbean-games-w/
+12:04:33 [INFO]            → 28 records
+12:04:33 [INFO] [120/176] https://lines.bookmaker.eu/en/sports/table-tennis/tt-tt-cup/
+12:04:34 [INFO]            → 66 records
+12:04:34 [INFO] [121/176] https://lines.bookmaker.eu/en/sports/table-tennis/tt-elite-series/
+12:04:35 [INFO]            → 144 records
+12:04:36 [INFO] [122/176] https://lines.bookmaker.eu/en/sports/table-tennis/tt-czech-rep-liga-pro/
+12:04:36 [INFO]            → 144 records
+12:04:37 [INFO] [123/176] https://lines.bookmaker.eu/en/sports/tennis/wta-memphis/
+12:04:37 [INFO]            → 24 records
+12:04:38 [INFO] [124/176] https://lines.bookmaker.eu/en/sports/tennis/atp-los-cabos/
+12:04:38 [INFO]            → 42 records
+12:04:39 [INFO] [125/176] https://lines.bookmaker.eu/en/sports/tennis/atp-washington/
+12:04:39 [INFO]            → 32 records
+12:04:40 [INFO] [126/176] https://lines.bookmaker.eu/en/sports/tennis/wta-washington/
+12:04:40 [INFO]            → 36 records
+12:04:41 [INFO] [127/176] https://lines.bookmaker.eu/en/sports/tennis/wta-vancouver-125k/
+12:04:41 [INFO]            → 30 records
+12:04:42 [INFO] [128/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-bonn/
+12:04:43 [INFO]            → 32 records
+12:04:43 [INFO] [129/176] https://lines.bookmaker.eu/en/sports/tennis/wta-targu-mures-125k/
+12:04:44 [INFO]            → 48 records
+12:04:44 [INFO] [130/176] https://lines.bookmaker.eu/en/sports/tennis/doubles-atp-los-cabos/
+12:04:45 [INFO]            → 8 records
+12:04:45 [INFO] [131/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-samsun/
+12:04:46 [INFO]            → 26 records
+12:04:47 [INFO] [132/176] https://lines.bookmaker.eu/en/sports/tennis/doubles-wta-washington/
+12:04:47 [INFO]            → 2 records
+12:04:48 [INFO] [133/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-liberec/
+12:04:48 [INFO]            → 32 records
+12:04:49 [INFO] [134/176] https://lines.bookmaker.eu/en/sports/tennis/doubles-atp-washington/
+12:04:49 [INFO]            → 6 records
+12:04:50 [INFO] [135/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-vancouver/
+12:04:50 [INFO]            → 18 records
+12:04:51 [INFO] [136/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-san-marino/
+12:04:51 [INFO]            → 32 records
+12:04:52 [INFO] [137/176] https://lines.bookmaker.eu/en/sports/ice-hockey/nhl/
+12:04:53 [INFO]            → 0 records
+12:04:53 [INFO] [138/176] https://lines.bookmaker.eu/en/sports/ice-hockey/ice-hockey-russia-khl/
+12:04:54 [INFO]            → 0 records
+12:04:54 [INFO] [139/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-global-sl/
+12:04:55 [INFO]            → 2 records
+12:04:55 [INFO] [140/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-sri-lanka-pl/
+12:04:56 [INFO]            → 2 records
+12:04:56 [INFO] [141/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-icc-cwc-league-2/
+12:04:57 [INFO]            → 2 records
+12:04:57 [INFO] [142/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-england-one-day-cup/
+12:04:58 [INFO]            → 8 records
+12:04:58 [INFO] [143/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-england-the-hundred/
+12:04:59 [INFO]            → 6 records
+12:04:59 [INFO] [144/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-england-the-hundred-women/
+12:05:00 [INFO]            → 4 records
+12:05:00 [INFO] [145/176] https://lines.bookmaker.eu/en/sports/aussie-rules/ar-australia-afl/
+12:05:01 [INFO]            → 6 records
+12:05:02 [INFO] [146/176] https://lines.bookmaker.eu/en/sports/snooker/snooker-matchups/
+12:05:02 [INFO]            → 10 records
+12:05:03 [INFO] [147/176] https://lines.bookmaker.eu/en/sports/rugby/ru-france-top-14/
+12:05:03 [INFO]            → 0 records
+12:05:04 [INFO] [148/176] https://lines.bookmaker.eu/en/sports/rugby/ru-nrl/
+12:05:05 [INFO]            → 0 records
+12:05:05 [INFO] [149/176] https://lines.bookmaker.eu/en/sports/rugby/ru-super-league/
+12:05:06 [INFO]            → 0 records
+12:05:06 [INFO] [150/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-pro-d2/
+12:05:07 [INFO]            → 0 records
+12:05:07 [INFO] [151/176] https://lines.bookmaker.eu/en/sports/rugby/ru-english-premiership/
+12:05:08 [INFO]            → 0 records
+12:05:08 [INFO] [152/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-currie-cup/
+12:05:09 [INFO]            → 0 records
+12:05:10 [INFO] [153/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-national-provincial/
+12:05:10 [INFO]            → 0 records
+12:05:10 [INFO] [154/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck/
+12:05:11 [INFO]            → 48 records
+12:05:11 [INFO] [155/176] https://lines.bookmaker.eu/en/sports/esports/lol-lec/
+12:05:12 [INFO]            → 24 records
+12:05:12 [INFO] [156/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcs/
+12:05:13 [INFO]            → 12 records
+12:05:13 [INFO] [157/176] https://lines.bookmaker.eu/en/sports/esports/lol-lfl/
+12:05:14 [INFO]            → 8 records
+12:05:14 [INFO] [158/176] https://lines.bookmaker.eu/en/sports/esports/lol-les/
+12:05:15 [INFO]            → 22 records
+12:05:15 [INFO] [159/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcp/
+12:05:16 [INFO]            → 24 records
+12:05:17 [INFO] [160/176] https://lines.bookmaker.eu/en/sports/esports/lol-lpl/
+12:05:17 [INFO]            → 60 records
+12:05:18 [INFO] [161/176] https://lines.bookmaker.eu/en/sports/esports/lol-cblol/
+12:05:18 [INFO]            → 12 records
+12:05:19 [INFO] [162/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-cct-europe/
+12:05:19 [INFO]            → 30 records
+12:05:20 [INFO] [163/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-stake-pulse/
+12:05:20 [INFO]            → 16 records
+12:05:21 [INFO] [164/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-epl-masters/
+12:05:21 [INFO]            → 18 records
+12:05:22 [INFO] [165/176] https://lines.bookmaker.eu/en/sports/esports/lol-road-of-legends/
+12:05:22 [INFO]            → 12 records
+12:05:23 [INFO] [166/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-1win-essence/
+12:05:23 [INFO]            → 0 records
+12:05:24 [INFO] [167/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck-challengers-league/
+12:05:25 [INFO]            → 30 records
+12:05:25 [INFO] [168/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-games-of-the-future/
+12:05:25 [INFO]            → 12 records
+12:05:26 [INFO] [169/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-starladder-starseries/
+12:05:26 [INFO]            → 36 records
+12:05:27 [INFO] [170/176] https://lines.bookmaker.eu/en/sports/esports/lol-prime-league-1st-division/
+12:05:27 [INFO]            → 24 records
+12:05:28 [INFO] [171/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-thunderpick-world-championship/
+12:05:29 [INFO]            → 12 records
+12:05:29 [INFO] [172/176] https://lines.bookmaker.eu/en/sports/slap-fighting/power-slap-matchups/
+12:05:30 [INFO]            → 16 records
+12:05:30 [INFO] [173/176] https://lines.bookmaker.eu/en/sports/e-gaming/efootball-h2h-league/
+12:05:31 [INFO]            → 12 records
+12:05:32 [INFO] [174/176] https://lines.bookmaker.eu/en/sports/e-gaming/esoccer-h2h-gg-league/
+12:05:35 [INFO]            → 40 records
+12:05:36 [INFO] [175/176] https://lines.bookmaker.eu/en/sports/e-gaming/ebasketball-h2h-gg-league/
+12:05:38 [INFO]            → 32 records
+12:05:38 [INFO] [176/176] https://lines.bookmaker.eu/en/sports/basketball/nba/
+12:05:39 [INFO]            → 0 records
+12:05:39 [INFO] Total unique records: 6988  |  Live: 129
+12:05:39 [INFO] Wrote   10 records → live\e-gaming\ebasketball_h2h_gg_league.json
+12:05:39 [INFO] Wrote   12 records → live\e-gaming\efootball_h2h_league.json
+12:05:39 [INFO] Wrote   19 records → live\e-gaming\esoccer_h2h_gg_league.json
+12:05:39 [INFO] Wrote   12 records → live\esports\lol_lck_challengers_league.json
+12:05:39 [INFO] Wrote    4 records → live\snooker\snooker_matchups.json
+12:05:39 [INFO] Wrote   30 records → live\table-tennis\tt_czech_rep_liga_pro.json
+12:05:39 [INFO] Wrote   12 records → live\table-tennis\tt_elite_series.json
+12:05:39 [INFO] Wrote   12 records → live\tennis\atp_los_cabos.json
+12:05:39 [INFO] Wrote    6 records → live\tennis\challenger_atp_vancouver.json
+12:05:39 [INFO] Wrote   12 records → live\tennis\wta_12:05:39 [INFO] [35/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-serie-a/
+12:05:40 [INFO]            → 108 records
+12:05:40 [INFO] [36/176] https://lines.bookmaker.eu/en/sports/soccer/romania-liga-1/
+12:05:41 [INFO]            → 100 records
+12:05:42 [INFO] [37/176] https://lines.bookmaker.eu/en/sports/soccer/uzbekistan-pfl/
+12:05:42 [INFO]            → 7 records
+12:0512:05:43 [INFO] Found 176 game-line URLs
+12:05:43 [INFO] [1/176] https://lines.bo12:05:44 [INFO]            → 27 records
+12:05:44 [INFO] [39/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkonen/
+12:05:45 [INFO]            → 35 records
+12:05:45 [INFO] [40/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-1-deild/
+12:05:46 [INFO]            → 28 records
+12:05:46 [INFO] [41/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-1-liga/
+12:05:47 [INFO]            → 61 records
+12:05:48 [INFO] [42/176] https://lines.bookmaker.eu/en/sports/soccer/england-efl-cup/
+12:05:49 [INFO]            → 231 records
+12:05:49 [INFO] [43/176] https://lines.bookmaker.eu/en/sports/soccer/lithuania-a-lyga/
+12:05:50 [INFO]            → 19 records
+12:05:51 [INFO] [44/176] https://lines.bookmaker.eu/en/sports/soccer/montenegro-1-cfl/
+12:05:52 [INFO]            → 35 records
+12:05:52 [INFO] [45/176] https://lines.bookmaker.eu/en/sports/soccer/copa-sudamericana/
+12:05:53 [INFO]            → 84 records
+12:05:54 [INFO] [46/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-super-cup/
+12:05:54 [INFO]            → 7 records
+12:05:55 [INFO] [47/176] https://lines.bookmaker.eu/en/sports/soccer/norway-1-division/
+12:05:55 [INFO]            → 52 records
+12:05:56 [INFO] [48/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-superettan/
+12:05:56 [INFO]            → 54 records
+12:05:57 [INFO] [49/176] https://lines.bookmaker.eu/en/sports/soccer/china-superleague/
+12:05:58 [INFO]            → 54 records
+12:05:58 [INFO] [50/176] https://lines.bookmaker.eu/en/sports/soccer/copa-libertadores/
+12:05:59 [INFO]            → 52 records
+12:05:59 [INFO] [51/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-fa-cup/
+12:06:00 [INFO]            → 82 records
+12:06:00 [INFO] [52/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-league/
+12:06:01 [INFO]            → 122 records
+12:06:02 [INFO] [53/176] https://lines.bookmaker.eu/en/sports/soccer/slovenia-prva-liga/
+12:06:03 [INFO]            → 33 records
+12:06:03 [INFO] [54/176] https://lines.bookmaker.eu/en/sports/soccer/slovakia-superliga/
+12:06:04 [INFO]            → 42 records
+12:06:04 [INFO] [55/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-supercup/
+12:06:05 [INFO]            → 0 records
+12:06:05 [INFO] [56/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkosliiga/
+12:06:06 [INFO]            → 33 records
+12:06:06 [INFO] [57/176] https://lines.bookmaker.eu/en/sports/soccer/poland-ekstraklasa/
+12:06:07 [INFO]            → 56 records
+12:06:08 [INFO] [58/176] https://lines.bookmaker.eu/en/sports/soccer/austria-erste-liga/
+12:06:09 [INFO]            → 54 records
+12:06:09 [INFO] [59/176] https://lines.bookmaker.eu/en/sports/soccer/austria-bundesliga/
+12:06:10 [INFO]            → 40 records
+12:06:11 [INFO] [60/176] https://lines.bookmaker.eu/en/sports/soccer/germany-bundesliga/
+12:06:11 [INFO]            → 63 records
+12:06:12 [INFO] [61/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-allsvenskan/
+12:06:12 [INFO]            → 42 records
+12:06:13 [INFO] [62/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-sas-ligaen/
+12:06:13 [INFO]            → 42 records
+12:06:14 [INFO] [63/176] https://lines.bookmaker.eu/en/sports/soccer/norway-eliteserien/
+12:06:14 [INFO]            → 56 records
+12:06:15 [INFO] [64/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-super-cup/
+12:06:16 [INFO]            → 7 records
+12:06:17 [INFO] [65/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-besta-deild/
+12:06:18 [INFO]            → 40 records
+12:06:18 [INFO] [66/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-liga-serie-a/
+12:06:19 [INFO]            → 47 records
+12:06:20 [INFO] [67/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-premiership/
+12:06:20 [INFO]            → 42 records
+12:06:21 [INFO] [68/176] https://lines.bookmaker.eu/en/sports/soccer/usa-usl-championship/
+12:06:22 [INFO]            → 96 records
+12:06:22 [INFO] [69/176] https://lines.bookmaker.eu/en/sports/soccer/croatia-hnl-league-1/
+12:06:24 [INFO]            → 26 records
+12:06:24 [INFO] [70/176] https://lines.bookmaker.eu/en/sports/soccer/estonia-meistriliiga/
+12:06:25 [INFO]            → 38 records
+12:06:26 [INFO] [71/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-1st-division/
+12:06:26 [INFO]            → 36 records
+12:06:27 [INFO] [72/176] https://lines.bookmaker.eu/en/sports/soccer/chile-copa-de-la-liga/
+12:06:28 [INFO]            → 0 records
+12:06:29 [INFO] [73/176] https://lines.bookmaker.eu/en/sports/soccer/belarus-vysshaya-liga/
+12:06:30 [INFO]            → 33 records
+12:06:31 [INFO] [74/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-copa-do-brasil/
+12:06:31 [INFO]            → 56 records
+12:06:32 [INFO] [75/176] https://lines.bookmaker.eu/en/sports/soccer/canada-premier-league/
+12:06:32 [INFO]            → 26 records
+12:06:33 [INFO] [76/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-champions-league/
+12:06:34 [INFO]            → 115 records
+12:06:34 [INFO] [77/176] https://lines.bookmaker.eu/en/sports/soccer/finland-veikkausliiga/
+12:06:36 [INFO]            → 38 records
+12:06:37 [INFO] [78/176] https://lines.bookmaker.eu/en/sports/soccer/russia-premier-league/
+12:06:38 [INFO]            → 108 records
+12:06:38 [INFO] [79/176] https://lines.bookmaker.eu/en/sports/soccer/romania-cupa-romaniei/
+12:06:39 [INFO]            → 55 records
+12:06:39 [INFO] [80/176] https://lines.bookmaker.eu/en/sports/soccer/peru-primera-division/
+12:06:41 [INFO]            → 64 records
+12:06:41 [INFO] [81/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-championship/
+12:06:43 [INFO]            → 12 records
+12:06:43 [INFO] [82/176] https://lines.bookmaker.eu/en/sports/soccer/germany-2nd-bundesliga/
+12:06:44 [INFO]            → 63 records
+12:06:44 [INFO] [83/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-victoria/
+12:06:45 [INFO]            → 14 records
+12:06:45 [INFO] [84/176] https://lines.bookmaker.eu/en/sports/soccer/chile-primera-division/
+12:06:46 [INFO]            → 50 records
+12:06:47 [INFO] [85/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-first-division/
+12:06:47 [INFO]            → 33 records
+12:06:48 [INFO] [86/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-eredivisie/
+12:06:48 [INFO]            → 61 records
+12:06:49 [INFO] [87/176] https://lines.bookmaker.eu/en/sports/soccer/paraguay-copa-paraguay/
+12:06:50 [INFO]            → 14 records
+12:06:50 [INFO] [88/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-jupiler-league/
+12:06:51 [INFO]            → 63 records
+12:06:51 [INFO] [89/176] https://lines.bookmaker.eu/en/sports/soccer/england-premier-league/
+12:06:52 [INFO]            → 68 records
+12:06:52 [INFO] [90/176] https://lines.bookmaker.eu/en/sports/soccer/australia-australia-cup/
+12:06:53 [INFO]            → 14 records
+12:06:53 [INFO] [91/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-challenge/
+12:06:54 [INFO]            → 52 records
+12:06:55 [INFO] [92/176] https://lines.bookmaker.eu/en/sports/soccer/england-national-league/
+12:06:56 [INFO]            → 82 records
+12:06:56 [INFO] [93/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-mx-apertura/
+12:06:57 [INFO]            → 57 records
+12:06:58 [INFO] [94/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-premier-division/
+12:06:58 [INFO]            → 35 records
+12:06:59 [INFO] [95/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-super-league/
+12:06:59 [INFO]            → 40 records
+12:07:00 [INFO] [96/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-copa-argentina/
+12:07:00 [INFO]            → 0 records
+12:07:01 [INFO] [97/176] https://lines.bookmaker.eu/en/sports/soccer/uruguay-primera-di12:07:01 12:07:02 [INFO]            → 56 records
+12:07:02 [INFO] [98/176] https://lines.bookmaker.eu/en/sports/soccer/australia-np12:07:02 [INFO]12:07:03 [INFO]            → 12 records
+12:07:03 [INFO] [99/176] https://lines.bookmaker.eu/en/sports/soccer/u20-co12:07:04 [INFO]       12:07:04 [INFO]      12:07:04 [INFO] [64/1712:07:04 [INFO] [100/176] https://lines.bookmaker.eu/en/sports/socce12:07:05 [INFO]            → 12:07:06 [INFO]            → 161 records
+12:07:06 [INFO] [101/176] https://lines.bookmaker.eu/en/sp12:07:06 [INFO]            → 40 records12:07:08 [INFO]            → 106 records
+12:07:08 [INFO] [102/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-primera-a-clausura/
+12:07:10 [INFO]            → 61 records
+12:07:10 [INFO] [103/176] https://lines.bookmaker.eu/en/sports/soccer/faroe-island-premier-league/
+12:07:10 [INFO]            → 3 records
+12:07:11 [INFO] [104/176] https://lines.bookmaker.eu/en/sports/soccer/africa-cup-of-nations-women/
+12:07:11 [INFO]            → 14 records
+12:07:12 [INFO] [105/176] https://lines.bookmaker.eu/en/sports/soccer/12:07:12 [INFO] [70/176] https12:07:12 [INFO]            → 47 records
+12:07:13 [INFO] [1012:07:13 [INFO]            → 38 records
+12:07:14 [INFO] [71/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-1st12:07:14 [IN12:07:14 [INFO]            → 36 records
+12:07:15 [INFO] [72/176] https://lines.bookmaker.eu/en/sports/soccer/chile-copa-de-la-liga/
+12:07:16 [INFO]            → 0 records
+12:07:16 [INFO] [73/176] https://lines.bookmaker.eu/en/sports/soccer/belarus-vysshaya-liga/
+12:07:17 [INFO]            → 33 records
+12:07:18 [INFO] [74/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-copa-do-brasil/
+12:07:19 [INFO]            → 56 records
+12:07:19 [INFO] [75/176] https://lines.bookmaker.eu/en/sports/soccer/canada-premier-league/
+12:07:20 [INFO]            → 26 records
+12:07:20 [INFO] [76/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-champions-league/
+12:07:22 [INFO]            → 115 records
+12:07:22 [INFO] [77/176] https://lines.bookmaker.eu/en/sports/soccer/finland-veikkausliiga/
+12:07:23 [INFO]            → 38 records
+12:07:24 [INFO] [78/176] https://lines.bookmaker.eu/en/sports/soccer/russia-premier-league/
+12:07:24 [INFO]            → 108 records
+12:07:25 [INFO] [79/176] https://lines.bookmaker.eu/en/sports/soccer/romania-cupa-romaniei/
+12:07:26 [INFO]            → 55 records
+12:07:27 [INFO] [80/176] https://lines.bookmaker.eu/en/sports/soccer/peru-primera-division/
+12:07:27 [INFO]            → 64 records
+12:07:28 [INFO] [81/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-championship/
+12:07:29 [INFO]            → 12 records
+12:07:29 [INFO] [82/176] https://lines.bookmaker.eu/en/sports/soccer/germany-2nd-bundesliga/
+12:07:30 [INFO]            → 63 records
+12:07:31 [INFO] [83/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-victoria/
+12:07:31 [INFO]            → 14 records
+12:07:32 [INFO] [84/176] https://lines.bookmaker.eu/en/sports/soccer/chile-primera-division/
+12:07:33 [INFO]            → 50 records
+12:07:33 [INFO] [85/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-first-division/
+12:07:34 [INFO]            → 33 records
+12:07:34 [INFO] [86/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-eredivisie/
+12:07:35 [INFO]            → 61 records
+12:07:36 [INFO] [87/176] https://lines.bookmaker.eu/en/sports/soccer/paraguay-copa-paraguay/
+12:07:37 [INFO]            → 14 records
+12:07:37 [INFO] [88/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-jupiler-league/
+12:07:39 [INFO]            → 63 records
+12:07:39 [INFO] [89/176] https://lines.bookmaker.eu/en/sports/soccer/england-premier-league/
+12:07:40 [INFO]            → 68 records
+12:07:41 [INFO] [90/176] https://lines.bookmaker.eu/en/sports/soccer/australia-australia-cup/
+12:07:42 [INFO]            → 14 records
+12:07:42 [INFO] [91/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-challenge/
+12:07:43 [INFO]            → 52 records
+12:07:44 [INFO] [92/176] https://lines.bookmaker.eu/en/sports/soccer/england-national-league/
+12:07:45 [INFO]            → 82 records
+12:07:46 [INFO] [93/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-mx-apertura/
+12:07:47 [INFO]            → 57 records
+12:07:47 [INFO] [94/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-premier-division/
+12:07:48 [INFO]            → 35 records
+12:07:49 [INFO] [95/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-super-league/
+12:07:50 [INFO]            → 40 records
+12:07:50 [INFO] [96/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-copa-argentina/
+12:07:51 [INFO]            → 0 records
+12:07:51 [INFO] [97/176] https://lines.bookmaker.eu/en/sports/soccer/uruguay-primera-division/
+12:07:52 [INFO]            → 56 records
+12:07:53 [INFO] [98/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-queensland/
+12:07:53 [INFO]            → 12 records
+12:07:54 [INFO] [99/176] https://lines.bookmaker.eu/en/sports/soccer/u20-concacaf-championship/
+12:07:54 [INFO]            → 12 records
+12:07:55 [INFO] [100/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-primera-division/
+12:07:56 [INFO]            → 161 records
+12:07:57 [INFO] [101/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-primera-nacional/
+12:07:58 [INFO]            → 106 records
+12:07:59 [INFO] [102/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-primera-a-clausura/
+12:07:59 [INFO]            → 61 records
+12:08:00 [INFO] [103/176] https://lines.bookmaker.eu/en/sports/soccer/faroe-island-premier-league/
+12:08:00 [INFO]            → 3 records
+12:08:01 [INFO] [104/176] https://lines.bookmaker.eu/en/sports/soccer/africa-cup-of-nations-women/
+12:08:01 [INFO]            → 14 records
+12:08:02 [INFO] [105/176] https://lines.bookmaker.eu/en/sports/soccer/south-africa-premier-league/
+12:08:03 [INFO]            → 47 records
+12:08:03 [INFO] [106/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-wk-league-women/
+12:08:04 [INFO]            → 7 records
+12:08:04 [INFO] [107/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-challenge-league/
+12:08:05 [INFO]            → 33 records
+12:08:05 [INFO] [108/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-league-classic/
+12:08:06 [INFO]            → 40 records
+12:08:06 [INFO] [109/176] https://lines.bookmaker.eu/en/sports/soccer/concacaf-central-american-cup/
+12:08:07 [INFO]            → 21 records
+12:08:07 [INFO] [110/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-conference-league/
+12:08:09 [INFO]            → 313 records
+12:08:09 [INFO] [111/176] https://lines.bookmaker.eu/en/sports/soccer/czech-republic-gambrinus-liga/
+12:08:10 [INFO]            → 52 records
+12:08:10 [INFO] [112/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-capital-football/
+12:08:11 [INFO]            → 7 records
+12:08:11 [INFO] [113/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-johan-cruyff-shield/
+12:08:12 [INFO]            → 7 records
+12:08:12 [INFO] [114/176] https://lines.bookmaker.eu/en/sports/soccer/russia-football-national-league/
+12:08:13 [INFO]            → 40 records
+12:08:13 [INFO] [115/176] https://lines.bookmaker.eu/en/sports/soccer/costa-rica-1st-division-apertura/
+12:08:14 [INFO]            → 21 records
+12:08:14 [INFO] [116/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-expansion-mx-apertura/
+12:08:15 [INFO]       12:08:16 [INFO]      12:08:16 [INFO] [117/12:08:16 [INFO] [153/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-n12:08:16 [INFO]      12:08:17 [INFO]       12:08:17 [INFO] [11812:08:17 [INFO] [154/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck/
+12:08:18 [INFO]            → 48 records
+12:08:19 [INFO] [155/176] https://lines.bookmaker.eu/en/sports/esports/lol-lec/
+12:08:20 [INFO]            → 24 records
+12:08:20 [INFO] [156/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcs/
+12:08:21 [INFO]            → 12 records
+12:08:21 [INFO] [157/176] https://lines.bookmaker.eu/en/sports/esports/lol-lfl/
+12:08:22 [INFO]            → 8 records
+12:08:22 [INFO] [158/176] https://lines.bookmaker.eu/en/sports/esports/lol-les/
+12:08:23 [INFO]            → 22 records
+12:08:23 [INFO] [159/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcp/
+12:08:24 [INFO]            → 24 records
+12:08:24 [INFO] [160/176] https://lines.bookmaker.eu/en/sports/esports/lol-lpl/
+12:08:25 [INFO]            → 60 records
+12:08:25 [INFO] [161/176] https://lines.bookmaker.eu/en/sports/esports/lol-cblol/
+12:08:26 [INFO]            → 12 records
+12:08:26 [INFO] [162/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-cct-europe/
+12:08:27 [INFO]            → 30 records
+12:08:27 [INFO] [163/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-stake-pulse/
+12:08:28 [INFO]            → 16 records
+12:08:29 [INFO] [164/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-epl-masters/
+12:08:29 [INFO]            → 18 records
+12:08:30 [INFO] [165/176] https://lines.bookmaker.eu/en/sports/esports/lol-road-of-legends/
+12:08:30 [INFO]            → 12 records
+12:08:31 [INFO] [166/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-1win-essence/
+12:08:32 [INFO]            → 0 records
+12:08:33 [INFO] [167/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck-challengers-league/
+12:08:33 [INFO]            → 30 records
+12:08:34 [INFO] [168/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-games-of-the-future/
+12:08:34 [INFO]            → 12 records
+12:08:35 [INFO] [169/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-starladder-starseries/
+12:08:36 [INFO]            → 36 records
+12:08:36 [INFO] [170/176] https://lines.bookmaker.eu/en/sports/esports/lol-prime-league-1st-division/
+12:08:37 [INFO]            → 24 records
+12:08:38 [INFO] [171/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-thunderpick-world-championship/
+12:08:39 [INFO]            → 12 records
+12:08:39 [INFO] [172/176] https://lines.bookmaker.eu/en/sports/slap-fighting/power-slap-matchups/
+12:08:40 [INFO]            → 16 records
+12:08:41 [INFO] [173/176] https://lines.bookmaker.eu/en/sports/e-gaming/efootball-h2h-league/
+12:08:42 [INFO]            → 12 records
+12:08:42 [INFO] [174/176] https://lines.bookmaker.eu/en/sports/e-gaming/esoccer-h2h-gg-league/
+12:08:46 [INFO]            → 40 records
+12:08:47 [INFO] [175/176] https://lines.bookmaker.eu/en/sports/e-gaming/ebasketball-h2h-gg-league/
+12:08:49 [INFO]            → 32 records
+12:08:50 [INFO] [176/176] https://lines.bookmaker.eu/en/sports/basketball/nba/
+12:08:51 [INFO]            → 0 records
+12:08:51 [INFO] Total unique records: 6988  |  Live: 135
+12:08:51 [INFO] Wrote   16 records → live\e-gaming\ebasketball_h2h_gg_league.json
+12:08:51 [INFO] Wrote   12 records → live\e-gaming\efootball_h2h_league.json
+12:08:51 [INFO] Wrote   19 records → live\e-gaming\esoccer_h2h_gg_league.json
+12:08:51 [INFO] Wrote   12 records → live\esports\lol_lck_challengers_league.json
+12:08:51 [INFO] Wrote    4 records → live\snooker\snooker_matchups.json
+12:08:51 [INFO] Wrote   30 records → live\table-tennis\tt_czech_rep_liga_pro.json
+12:08:51 [INFO] Wrote   12 records → live\table-tennis\tt_elite_series.json
+12:08:51 [INFO] Wrote   12 records → live\tennis\atp_los_cabos.json
+12:08:51 [INFO] Wrote    6 records → live\tennis\challenger_atp_vancouver.json
+12:08:51 [INFO] Wrote   12 records → live\tennis\wta_vancouver_125k.json
+12:08:51 [INFO] Saved 135 records across 10 files under ./live/
+ookmaker.eu/en/sports/rugby/ru-france-top-14/
+12:08:49 [INFO]            → 0 records
+12:08:50 [INFO] [148/176] https://lines.bookmaker.eu/en/sports/rugby/ru-nrl/
+12:08:51 [INFO]            → 0 records
+12:08:51 [INFO] [149/176] https://lines.bookmaker.eu/en/sports/rugby/ru-super-league/
+12:08:52 [INFO]            → 0 records
+12:08:52 [INFO] [150/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-pro-d2/
+12:08:53 [INFO]            → 0 records
+12:08:53 [INFO] [151/176] https://lines.bookmaker.eu/en/sports/rugby/ru-english-premiership/
+12:08:54 [INFO]            → 0 records
+12:08:55 [INFO] [152/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-currie-cup/
+12:08:55 [INFO]            → 0 records
+12:08:56 [INFO] [153/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-national-provincial/
+12:08:56 [INFO]            → 0 records
+12:08:57 [INFO] [154/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck/
+12:08:57 [INFO]            → 48 records
+12:08:58 [INFO] [155/176] https://lines.bookmaker.eu/en/sports/esports/lol-lec/
+12:08:59 [INFO]            → 24 records
+12:08:59 [INFO] [156/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcs/
+12:09:00 [INFO]            → 12 records
+12:09:00 [INFO] [157/176] https://lines.bookmaker.eu/en/sports/esports/lol-lfl/
+12:09:01 [INFO]            → 8 records
+12:09:01 [INFO] [158/176] https://lines.bookmaker.eu/en/sports/esports/lol-les/
+12:09:02 [INFO]            → 22 records
+12:09:02 [INFO] [159/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcp/
+12:09:03 [INFO]            → 24 records
+12:09:03 [INFO] [160/176] https://lines.bookmaker.eu/en/sports/esports/lol-lpl/
+12:09:04 [INFO]            → 60 records
+12:09:04 [INFO] [161/176] https://lines.bookmaker.eu/en/sports/esports/lol-cblol/
+12:09:05 [INFO]            → 12 records
+12:09:05 [INFO] [162/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-cct-europe/
+12:09:06 [INFO]            → 30 records
+12:09:06 [INFO] [163/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-stake-pulse/
+12:09:07 [INFO]            → 16 records
+12:09:07 [INFO] [164/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-epl-masters/
+12:09:08 [INFO]            → 18 records
+12:09:08 [INFO] [165/176] https://lines.bookmaker.eu/en/sports/esports/lol-road-of-legends/
+12:09:09 [INFO]            → 12 records
+12:09:09 [INFO] [166/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-1win-essence/
+12:09:10 [INFO]            → 0 records
+12:09:10 [INFO] [167/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck-challengers-league/
+12:09:11 [INFO]            → 30 records
+12:09:11 [INFO] [168/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-games-of-the-future/
+12:09:12 [INFO]            → 12 records
+12:09:12 [INFO] [169/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-starladder-starseries/
+12:09:13 [INFO]            → 36 records
+12:09:14 [INFO] [170/176] https://lines.bookmaker.eu/en/sports/esports/lol-prime-league-1st-division/
+12:09:14 [INFO]            → 24 records
+12:09:15 [INFO] [171/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-thunderpick-world-championship/
+12:09:15 [INFO]            → 12 records
+12:09:16 [INFO] [172/176] https://lines.bookmaker.eu/en/sports/slap-fighting/power-slap-matchups/
+12:09:17 [INFO]            → 16 records
+12:09:17 [INFO] [173/176] https://lines.bookmaker.eu/en/sports/e-gaming/efootball-h2h-league/
+12:09:18 [INFO]            → 12 records
+12:09:18 [INFO] [174/176] https://lines.bookmaker.eu/en/sports/e-gaming/esoccer-h2h-gg-league/
+12:09:22 [INFO]            → 40 records
+12:09:23 [INFO] [175/176] https://lines.bookmaker.eu/en/sports/e-gaming/ebasketball-h2h-gg-league/
+12:09:25 [INFO]            → 32 records
+12:09:25 [INFO] [176/176] https://lines.bookmaker.eu/en/sports/basketball/nba/
+12:09:26 [INFO]            → 0 records
+12:09:26 [INFO] Total unique records: 6988  |  Live: 160
+12:09:26 [INFO] Wrote   16 records → live\e-gaming\ebasketball_h2h_gg_league.json
+12:09:26 [INFO] Wrote   12 records → live\e-gaming\efootball_h2h_league.json
+12:09:26 [INFO] Wrote   26 records → live\e-gaming\esoccer_h2h_gg_league.json
+12:09:26 [INFO] Wrote   12 records → live\esports\lol_lck_challengers_league.json
+12:09:26 [INFO] Wrote    4 records → live\snooker\snooker_matchups.json
+12:09:26 [INFO] Wrote   30 records → live\table-tennis\tt_czech_rep_liga_pro.json
+12:09:26 [INFO] Wrote   30 records → live\table-tennis\tt_elite_series.json
+12:09:26 [INFO] Wrote   12 records12:09:26 [INFO] [26/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-copa/
+12:09:27 [INFO]            → 0 records
+12:09:27 [INFO] [27/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-cup/
+12:09:28 [INFO]            → 26 records
+12:09:28 [INFO] [28/176] https://lines.bookmaker.eu/en/sports/soccer/club-friendly/
+12:09:29 [INFO]            → 225 records
+12:09:29 [INFO] [29/176] https://lines.bookmaker.eu/en/sports/soccer/poland-liga-i/
+12:09:30 [INFO]            → 26 records
+12:09:31 [INFO] [30/176] https://lines.bookmaker.eu/en/sports/soccer/spain-la-liga/
+12:09:31 [INFO]            → 68 records
+12:09:32 [INFO] [31/176] https://lines.bookmaker.eu/en/sports/soccer/italy-serie-a/
+12:09:32 [INFO]            → 68 records
+12:09:33 [INFO] [32/176] https://lines.bookmaker.eu/en/sports/soccer/usa-nwsl-women/
+12:09:33 [INFO]            → 35 records
+12:09:34 [INFO] [33/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-super-cup/
+12:09:35 [INFO]            → 7 records
+12:09:35 [INFO] [34/176] https://lines.bookmaker.eu/en/sports/soccer/germany-3-liga/
+12:09:36 [INFO]            → 34 records
+12:09:36 [INFO] [35/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-serie-a/
+12:09:37 [INFO]            → 108 records
+12:09:37 [INFO] [36/176] https://lines.bookmaker.eu/en/sports/soccer/romania-liga-1/
+12:09:38 [INFO]            → 100 records
+12:09:38 [INFO] [37/176] https://lines.bookmaker.eu/en/sports/soccer/uzbekistan-pfl/
+12:09:39 [INFO]            → 7 records
+12:09:39 [INFO] [38/176] https://lines.bookmaker.eu/en/sports/soccer/latvia-virsliga/
+12:09:40 [INFO]            → 27 records
+12:09:41 [INFO] [39/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkonen/
+12:09:42 [INFO]            → 35 records
+12:09:42 [INFO] [40/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-1-deild/
+12:09:43 [INFO]            → 28 records
+12:09:43 [INFO] [41/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-1-liga/
+12:09:45 [INFO]            → 61 records
+12:09:45 [INFO] [42/176] https://lines.bookmaker.eu/en/sports/soccer/england-efl-cup/
+12:09:46 [INFO]            → 231 records
+12:09:46 [INFO] [43/176] https://lines.bookmaker.eu/en/sports/soccer/lithuania-a-lyga/
+12:09:47 [INFO]            → 19 records
+12:09:47 [INFO] [44/176] https://lines.bookmaker.eu/en/sports/soccer/montenegro-1-cfl/
+12:09:48 [INFO]            → 35 records
+12:09:48 [INFO] [45/176] https://lines.bookmaker.eu/en/sports/soccer/copa-sudamericana/
+12:09:49 [INFO]            → 84 records
+12:09:49 [INFO] [46/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-super-cup/
+12:09:49 [INFO]            → 7 records
+12:09:50 [INFO] [47/176] https://lines.bookmaker.eu/en/sports/soccer/norway-1-division/
+12:09:51 [INFO]            → 52 rec12:09:12:09:51 [INFO] [48/176] https://lines12:09:51 [INFO] [16/176] https://lines.bookmaker.eu12:09:52 [INFO]            → 54 records
+12:09:52 [INFO] [49/176] https://lines.bookmaker.12:09:53 [INFO] [17/176] https://lines.b12:09:53 [INFO]            → 54 records
+12:09:53 [INFO] [50/176] https://lines.bookmaker.eu/en/sport12:09:54 [INFO] [18/176] http12:09:54 [INFO]            → 52 records
+12:09:54 [INFO] [51/176] https://lines.bookmaker.eu/en/sports/soccer/so12:09:54 [INFO] [1912:09:55 [INFO]            → 82 records
+12:09:55 [INFO] [52/176] https://lines.bo12:09:56 [INFO]            → 120 records
+12:09:56 [INFO] [20/176] https://lines.bookmaker.12:09:57 [INFO] [53/176] ht12:09:57 [INFO]            → 50 records
+12:09:57 [INFO] [21/176] https://lines.bookmaker.eu/en/sports/b12:09:58 [INFO]12:09:58 [INFO]            → 14 records
+12:09:58 [INFO] [22/176] https://lines.bookmaker.eu/en/sports/soccer/usa-ml12:012:09:59 [INFO]            → 105 records
+12:10:00 [INFO] [23/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls-all-sta12:112:10:00 [INFO]            → 7 records
+12:10:01 [INFO] [24/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-nort12:10:01 [I12:10:01 [INFO]            → 7 records
+12:10:02 [INFO] [25/176] https://lines.bookmaker.eu/en/sports/soccer/hungary-nb-12:112:10:03 [INFO]            → 40 records
+12:10:03 [INFO] [26/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-copa/
+12:10:04 [INFO]            → 0 records
+12:10:04 [INFO] [27/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-cup/
+12:10:05 [INFO]            → 26 records
+12:10:05 [INFO] [28/176] https://lines.bookmaker.eu/en/sports/soccer/club-friendly/
+12:10:06 [INFO]            → 225 records
+12:10:07 [INFO] [29/176] https://lines.bookmaker.eu/en/sports/soccer/poland-liga-i/
+12:10:07 [INFO]            → 26 records
+12:10:08 [INFO] [30/176] https://lines.bookmaker.eu/en/sports/soccer/spain-la-liga/
+12:10:08 [INFO]            → 68 records
+12:10:09 [INFO] [31/176] https://lines.bookmaker.eu/en/sports/soccer/italy-serie-a/
+12:10:09 [INFO]            → 68 records
+12:10:10 [INFO] [32/176] https://lines.bookmaker.eu/en/sports/soccer/usa-nwsl-women/
+12:10:11 [INFO]            → 35 records
+12:10:11 [INFO] [33/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-super-cup/
+12:10:12 [INFO]            → 7 records
+12:10:12 [INFO] [34/176] https://lines.bookmaker.eu/en/sports/soccer/germany-3-liga/
+12:10:13 [INFO]            → 34 records
+12:10:13 [INFO] [35/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-serie-a/
+12:10:14 [INFO]            → 108 records
+12:10:15 [INFO] [36/176] https://lines.bookmaker.eu/en/sports/soccer/romania-liga-1/
+12:10:15 [INFO]            → 100 records
+12:10:16 [INFO] [37/176] https://lines.bookmaker.eu/en/sports/soccer/uzbekistan-pfl/
+12:10:16 [INFO]            → 7 records
+12:10:17 [INFO] [38/176] https://lines.bookmaker.eu/en/sports/soccer/latvia-virsliga/
+12:10:17 [INFO]            → 27 records
+12:10:18 [INFO] [39/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkonen/
+12:10:18 [INFO]            → 35 records
+12:10:19 [INFO] [40/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-1-deild/
+12:10:19 [INFO]            → 28 records
+12:10:20 [INFO] [41/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-1-liga/
+12:10:20 [INFO]            → 61 records
+12:10:21 [INFO] [42/176] https://lines.bookmaker.eu/en/sports/soccer/england-efl-cup/
+12:10:22 [INFO]            → 231 records
+12:10:23 [INFO] [43/176] https://lines.bookmaker.eu/en/sports/soccer/lithuania-a-lyga/
+12:10:23 [INFO]            → 19 records
+12:10:24 [INFO] [44/176] https://lines.bookmaker.eu/en/sports/soccer/montenegro-1-cfl/
+12:10:24 [INFO]            → 35 records
+12:10:25 [INFO] [45/176] https://lines.bookmaker.eu/en/sports/soccer/copa-sudamericana/
+12:10:25 [INFO]            → 84 records
+12:10:26 [INFO] [46/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-super-cup/
+12:10:27 [INFO]            → 7 records
+12:10:27 [INFO] [47/176] https://lines.bookmaker.eu/en/sports/soccer/norway-1-division/
+12:10:28 [INFO]            → 52 records
+12:10:28 [INFO] [48/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-superettan/
+12:10:29 [INFO]            → 54 records
+12:10:29 [INFO] [49/176] https://lines.bookmaker.eu/en/sports/soccer/china-superleague/
+12:10:30 [INFO]            → 54 records
+12:10:30 [INFO] [50/176] https://lines.bookmaker.eu/en/sports/soccer/copa-libertadores/
+12:10:31 [INFO]            → 52 records
+12:10:31 [INFO] [51/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-fa-cup/
+12:10:32 [INFO]            → 82 records
+12:10:32 [INFO] [52/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-league/
+12:10:33 [INFO]            → 122 records
+12:10:34 [INFO] [53/176] https://lines.bookmaker.eu/en/sports/soccer/slovenia-prva-liga/
+12:10:34 [INFO]            → 33 records
+12:10:35 [INFO] [54/176] https://lines.bookmaker.eu/en/sports/soccer/slovakia-superliga/
+12:10:35 [INFO]            → 42 records
+12:10:36 [INFO] [55/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-supercup/
+12:10:37 [INFO]            → 0 records
+12:10:37 [INFO] [56/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkosliiga/
+12:10:38 [INFO]            → 33 records
+12:10:38 [INFO] [57/176] https://lines.bookmaker.eu/en/sports/soccer/poland-ekstraklasa/
+12:10:39 [INFO]            → 56 records
+12:10:39 [INFO] [58/176] https://lines.bookmaker.eu/en/sports/soccer/austria-erste-liga/
+12:10:40 [INFO]            → 54 records
+12:10:40 [INFO] [59/176] https://lines.bookmaker.eu/en/sports/soccer/austria-bundesliga/
+12:10:41 [INFO]            → 40 records
+12:10:41 [INFO] [60/176] https://lines.bookmaker.eu/en/sports/soccer/germany-bundesliga/
+12:10:42 [INFO]            → 63 records
+12:10:42 [INFO] [61/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-allsvenskan/
+12:10:43 [INFO]            → 42 records
+12:10:43 [INFO] [62/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-sas-ligaen/
+12:10:44 [INFO]            → 42 records
+12:10:44 [INFO] [63/176] https://lines.bookmaker.eu/en/sports/soccer/norway-eliteserien/
+12:10:45 [INFO]            → 56 records
+12:10:46 [INFO] [64/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-super-cup/
+12:10:46 [INFO]            → 7 records
+12:10:47 [INFO] [65/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-besta-deild/
+12:10:47 [INFO]            → 40 records
+12:10:48 [INFO] [66/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-liga-serie-a/
+12:10:48 [INFO]            → 47 records
+12:10:49 [INFO] [67/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-premiership/
+12:10:49 [INFO]            → 42 records
+12:10:50 [INFO] [68/176] https://lines.bookmaker.eu/en/sports/soccer/usa-usl-championship/
+12:10:51 [INFO]            → 96 records
+12:10:51 [INFO] [69/176] https://lines.bookmaker.eu/en/sports/soccer/croatia-hnl-league-1/
+12:10:52 [INFO]            → 26 records
+12:10:52 [INFO] [70/176] https://lines.bookmaker.eu/en/sports/soccer/estonia-meistriliiga/
+12:10:53 [INFO]            → 38 records
+12:10:53 [INFO] [71/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-1st-division/
+12:10:54 [INFO]            → 36 records
+12:10:54 [INFO] [72/176] https://lines.bookmaker.eu/en/sports/soccer/chile-copa-de-la-liga/
+12:10:55 [INFO]            → 0 records
+12:10:55 [INFO] [73/176] https://lines.bookmaker.eu/en/sports/soccer/belarus-vysshaya-liga/
+12:10:56 [INFO]            → 33 records
+12:10:56 [INFO] [74/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-copa-do-brasil/
+12:10:57 [INFO]            → 56 records
+12:10:58 [INFO] [75/176] https://lines.bookmaker.eu/en/sports/soccer/canada-premier-league/
+12:10:58 [INFO]            → 26 records
+12:10:59 [INFO] [76/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-champions-league/
+12:10:59 [INFO]            → 115 records
+12:11:00 [INFO] [77/176] https://lines.bookmaker.eu/en/sports/soccer/finland-veikkausliiga/
+12:11:00 [INFO]            → 38 records
+12:11:01 [INFO] [78/176] https://lines.bookmaker.eu/en/sports/soccer/russia-premier-league/
+12:11:01 [INFO]            → 108 records
+12:11:02 [INFO] [79/176] https://lines.bookmaker.eu/en/sports/soccer/romania-cupa-romaniei/
+12:11:02 [INFO]            → 55 records
+12:11:03 [INFO] [80/176] https://lines.bookmaker.eu/en/sports/soccer/peru-primera-division/
+12:11:04 [INFO]            → 64 records
+12:11:04 [INFO] [81/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-championship/
+12:11:05 [INFO]            → 12 records
+12:11:05 [INFO] [82/176] https://lines.bookmaker.eu/en/sports/soccer/germany-2nd-bundesliga/
+12:11:06 [INFO]            → 63 records
+12:11:06 [INFO] [83/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-victoria/
+12:11:07 [INFO]            → 14 records
+12:11:07 [INFO] [84/176] https://lines.bookmaker.eu/en/sports/soccer/chile-primera-division/
+12:11:08 [INFO]            → 50 records
+12:11:08 [INFO] [85/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-first-division/
+12:11:09 [INFO]            → 33 records
+12:11:09 [INFO] [86/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-eredivisie/
+12:11:10 [INFO]            → 61 records
+12:11:11 [INFO] [87/176] https://lines.bookmaker.eu/en/sports/soccer/paraguay-copa-paraguay/
+12:11:11 [INFO]            → 14 records
+12:11:12 [INFO] [88/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-jupiler-league/
+12:11:12 [INFO]            → 63 records
+12:11:13 [INFO] [89/176] https://lines.bookmaker.eu/en/sports/soccer/england-premier-league/
+12:11:13 [INFO]            → 68 records
+12:11:14 [INFO] [90/176] https://lines.bookmaker.eu/en/sports/soccer/australia-australia-cup/
+12:11:14 [INFO]            → 14 records
+12:11:15 [INFO] [91/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-challenge/
+12:11:15 [INFO]            → 52 records
+12:11:16 [INFO] [92/176] https://lines.bookmaker.eu/en/sports/soccer/england-national-league/
+12:11:17 [INFO]            → 82 records
+12:11:17 [INFO] [93/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-mx-apertura/
+12:11:18 [INFO]            → 57 records
+12:11:18 [INFO] [94/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-premier-division/
+12:11:19 [INFO]            → 35 records
+12:11:19 [INFO] [95/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-super-league/
+12:11:20 [INFO]            → 40 records
+12:11:20 [INFO] [96/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-copa-argentina/
+12:11:21 [INFO]            → 0 re12:11:22 [INFO]            → 36 records
+12:11:22 [INFO] [127/176] https://lines.bookmaker.eu/en/sports/tennis/wta-vancouver-125k/
+12:11:23 [INFO]            → 30 records
+12:11:24 [INFO] [128/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-bonn/
+12:11:24 [INFO]            → 32 records
+12:11:25 [INFO] [129/176] https://lines.bookmaker.eu/en/sports/tennis/wta-targu-mures-125k/
+12:11:25 [INFO]            → 48 records
+12:11:26 [INFO] [130/176] https://lines.bookmaker.eu/en/sports/tennis/doubles-atp-los-cabos/
+12:11:26 [INFO]            → 8 records
+12:11:27 [INFO] [131/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-at12:11:28 [I12:11:28 [INFO]            → 26 records
+12:11:29 [INFO] [132/176] https://lines.bookmaker.eu/en/sports/tennis/doubles-wta-washington/
+12:11:29 [INFO]            → 2 records
+12:11:30 [INFO] [133/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-liberec/
+12:11:31 [INFO]            → 32 records
+12:11:31 [INFO] [134/176] https://lines.bookmaker.eu/en/sports/tennis/doubles-atp-washington/
+12:11:32 [INFO]            → 6 records
+12:11:33 [INFO] [135/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-vancouver/
+12:11:33 [INFO]            → 18 records
+12:11:34 [INFO] [136/176] https://lines.bookmaker.eu/en/sports/tennis/challenger-atp-san-marino/
+12:11:34 [INFO]            → 32 records
+12:11:35 [INFO] [137/176] https://lines.bookmaker.eu/en/sports/ice-hockey/nhl/
+12:11:35 [INFO]            → 0 records
+12:11:36 [INFO] [138/176] https://lines.bookmaker.eu/en/sports/ice-hockey/ice-hockey-russia-khl/
+12:11:37 [INFO]            → 0 records
+12:11:37 [INFO] [139/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-global-sl/
+12:11:38 [INFO]            → 2 records
+12:11:38 [INFO] [140/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-sri-lanka-pl/
+12:11:39 [INFO]            → 2 records
+12:11:39 [INFO] [141/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-icc-cwc-league-2/
+12:11:40 [INFO]            → 2 records
+12:11:41 [INFO] [142/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-england-one-day-cup/
+12:11:41 [INFO]            → 8 records
+12:11:42 [INFO] [143/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-england-the-hundred/
+12:11:42 [INFO]            → 6 records
+12:11:43 [INFO] [144/176] https://lines.bookmaker.eu/en/sports/cricket/cricket-england-the-hundred-women/
+12:11:43 [INFO]            → 4 records
+12:11:44 [INFO] [145/176] https://lines.bookmaker.eu/en/sports/aussie-rules/ar-australia-afl/
+12:11:45 [INFO]            → 6 records
+12:11:45 [INFO] [146/176] https://lines.bookmaker.eu/en/sports/snooker/snooker-matchups/
+12:11:46 [INFO]            → 10 records
+12:11:46 [INFO] [147/176] https://lines.bookmaker.eu/en/sports/rugby/ru-france-top-14/
+12:11:47 [INFO]            → 0 records
+12:11:48 [INFO] [148/176] https://lines.bookmaker.eu/en/sports/rugby/ru-nrl/
+12:11:49 [INFO]            → 0 records
+12:11:49 [INFO] [149/176] https://lines.bookmaker.eu/en/sports/rugby/ru-super-league/
+12:11:50 [INFO]            → 0 records
+12:11:51 [INFO] [150/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-pro-d2/
+12:11:51 [INFO]            → 0 records
+12:11:52 [INFO] [151/176] https://lines.bookmaker.eu/en/sports/rugby/ru-english-premiership/
+12:11:53 [INFO]            → 0 records
+12:11:53 [INFO] [152/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-currie-cup/
+12:11:54 [INFO]            → 0 records
+12:11:54 [INFO] [153/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-national-provincial/
+12:11:55 [INFO]     12:11:55 [INFO]       12:11:55 [INFO] [154/112:11:55 [INFO] [123/176] https://lines.bookmaker.eu/en/spo12:11:56 [INFO]            → 48 records
+12:11:57 [INFO] [155/176] https://lines.bookmaker.eu/en/sports/esports/lol-lec/
+12:11:57 [INFO]            → 24 records
+12:11:58 [INFO] [156/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcs/
+12:11:58 [INFO]            → 12 re12:11:512:11:59 [INFO] [157/176] https://li12:11:59 [INFO] [126/176] https://lines.bookm12:11:59 [INFO]            → 8 records
+12:11:59 [INFO] [158/176] https://lines.boo12:12:00 [INFO] [127/176] https://line12:12:00 [INFO]            → 22 records
+12:12:00 [12:12:01 [INFO]            → 30 records
+12:12:01 [INFO] [128/176] ht12:12:02 [INFO]            → 24 records
+12:12:02 [INFO] [160/176] https://lines.bookmaker.eu/en/sports/e12:12:02 [INFO] [12:12:03 [INFO]            → 60 records
+12:12:04 [INFO] [161/176] https://lines.bookmaker.eu/en/sports/esports/lol-cblol/
+12:12:04 [INFO]            → 12 records
+12:12:05 [INFO] [162/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-cct-europ12:112:12:06 [INFO]            → 30 records
+12:12:06 [INFO] [163/176] https://lines.bookmak12:12:06 [INFO]            → 26 records
+112:12:07 [INFO]            → 16 records
+12:12:07 [INFO] [164/176] https://lines.bookmaker.e12:12:07 [INFO]            → 2 records112:12:08 [INFO] [133/176] https://lines.bo12:12:08 [INFO] [165/176] https://lines.bookmaker.eu/12:12:08 [INFO]            → 32 record12:12:12:09 [INFO] [134/176] https://lines.12:12:09 [INFO] [166/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-1win-essence/
+12:12:10 [INFO]            → 0 records
+12:12:11 [INFO] [167/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck-challengers-league/
+12:12:12 [INFO]            → 30 records
+12:12:12 [INFO] [168/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-games-of-the-future/
+12:12:13 [INFO]            → 12 records
+12:12:13 [INFO] [169/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-starladder-starseries/
+12:12:14 [INFO]            → 36 records
+12:12:15 [INFO] [170/176] https://lines.bookmaker.eu/en/sports/esports/lol-prime-league-1st-division/
+12:12:16 [INFO]            → 24 records
+12:12:16 [INFO] [171/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-thunderpick-world-championship/
+12:12:17 [INFO]            → 12 records
+12:12:17 [INFO] [172/176] https://lines.bookmaker.eu/en/sports/slap-fighting/power-slap-matchups/
+12:12:18 [INFO]            → 16 records
+12:12:18 [INFO] [173/176] https://lines.bookmaker.eu/en/sports/e-gaming/efootball-h2h-league/
+12:12:19 [INFO]            → 12 records
+12:12:20 [INFO] [174/176] https://lines.bookmaker.eu/en/sports/e-gaming/esoccer-h2h-gg-league/
+12:12:24 [INFO]            → 40 records
+12:12:25 [INFO] [175/176] https://lines.bookmaker.eu/en/sports/e-gaming/ebasketball-h2h-gg-league/
+12:12:25 [WARNING] Failed to fetch https://lines.bookmaker.eu/en/sports/e-gaming/ebasketball-h2h-gg-league/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+12:12:25 [INFO] [176/176] https://lines.bookmaker.eu/en/sports/basketball/nba/
+12:12:26 [INFO]            → 0 records
+12:12:26 [INFO] Total unique records: 6956  |  Live: 151
+12:12:26 [INFO] Wrote   12 records → live\e-gaming\efootball_h2h_league.js12:12:27 [INFO]            → 0 records
+12:12:27 [INFO] [148/176] https://lines.bookmaker.eu/en/sports/rugby/ru-nrl/
+12:12:28 [INFO]            → 0 records
+12:12:29 [INFO] [149/176] https://lines.bookmaker.eu/en/sports/rugby/ru-super-league/
+12:12:30 [INFO]            → 0 records
+12:12:30 [INFO] [150/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-pro-d2/
+12:12:31 [INFO]            → 0 records
+12:12:32 [INFO] [151/176] https://lines.bookmaker.eu/en/sports/rugby/ru-english-premiership/
+12:12:33 [INFO]            → 0 records
+12:12:33 [INFO] [152/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-currie-cup/
+12:12:34 [INFO]            → 0 records
+12:12:35 [INFO] [153/176] https://lines.bookmaker.eu/en/sports/rugby/ru-rugby-union-national-provincial/
+12:12:35 [INFO]            → 0 records
+12:12:36 [INFO] [154/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck/
+12:12:37 [INFO]            → 48 records
+12:12:37 [INFO] [155/176] https://lines.bookmaker.eu/en/sports/esports/lol-lec/
+12:12:38 [INFO]            → 24 records
+12:12:38 [INFO] [156/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcs/
+12:12:39 [INFO]            → 12 records
+12:12:39 [INFO] [157/176] https://lines.bookmaker.eu/en/sports/esports/lol-lfl/
+12:12:40 [INFO]            → 8 records
+12:12:41 [INFO] [158/176] https://lines.bookmaker.eu/en/sports/esports/lol-les/
+12:12:41 [INFO]            → 22 records
+12:12:42 [INFO] [159/176] https://lines.bookmaker.eu/en/sports/esports/lol-lcp/
+12:12:42 [INFO]            → 24 records
+12:12:43 [INFO] [160/176] https://lines.bookmaker.eu/en/sports/esports/lol-lpl/
+12:12:44 [INFO]            → 60 records
+12:12:44 [INFO] [161/176] https://lines.bookmaker.eu/en/sports/esports/lol-cblol/
+12:12:45 [INFO]            → 12 records
+12:12:46 [INFO] [162/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-cct-europe/
+12:12:46 [INFO]            → 30 records
+12:12:47 [INFO] [163/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-stake-pulse/
+12:12:48 [INFO]            → 16 records
+12:12:48 [INFO] [164/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-epl-masters/
+12:12:49 [INFO]            → 18 records
+12:12:49 [INFO] [165/176] https://lines.bookmaker.eu/en/sports/esports/lol-road-of-legends/
+12:12:50 [INFO]            → 12 records
+12:12:50 [INFO] [166/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-1win-essence/
+12:12:51 [INFO]            → 0 records
+12:12:52 [INFO] [167/176] https://lines.bookmaker.eu/en/sports/esports/lol-lck-challengers-league/
+12:12:52 [INFO]            → 30 records
+12:12:53 [INFO] [168/176] https://lines.bookmaker.eu/en/sports/esports/dota-2-games-of-the-future/
+12:12:54 [INFO]            → 12 records
+12:12:54 [INFO] [169/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-starladder-starseries/
+12:12:56 [INFO]            → 36 records
+12:12:56 [INFO] [170/176] https://lines.bookmaker.eu/en/sports/esports/lol-prime-league-1st-division/
+12:12:57 [INFO]            → 24 records
+12:12:57 [INFO] [171/176] https://lines.bookmaker.eu/en/sports/esports/cs-go-thunderpick-world-championship/
+12:12:58 [INFO]            → 12 records
+12:12:58 [INFO] [172/176] https://lines.bookmaker.eu/en/sports/slap-fighting/power-slap-matchups/
+12:12:59 [INFO]            → 16 records
+12:13:00 [INFO] [173/176] https://lines.bookmaker.eu/en/sports/e-gaming/efootball-h2h-league/
+12:13:01 [INFO]            → 12 records
+12:13:01 [INFO] [174/176] https://lines.bookmaker.eu/en/sports/e-gaming/esoccer-h2h-gg-league/
+12:13:05 [INFO]            → 40 records
+12:13:05 [INFO] [175/176] https://lines.bookmaker.eu/en/sports/e-gaming/ebasketball-h2h-gg-league/
+12:13:08 [INFO]            → 32 records
+ines.bookmaker.eu/en/sports/mma/mma-ufc/
+12:12:55 [INFO]            → 50 records
+12:12:55 [INFO] [21/176] https://lines.bookmaker.eu/en/sports/boxing/boxing/
+12:12:56 [INFO]            → 14 records
+12:12:56 [INFO] [22/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls/
+12:12:57 [INFO]            → 105 records
+12:12:58 [INFO] [23/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls-all-star/
+12:12:58 [INFO]            → 7 records
+12:12:59 [INFO] [24/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-northern-nsw/
+12:12:59 [INFO]            → 7 records
+12:13:00 [INFO] [25/176] https://lines.bookmaker.eu/en/sports/soccer/hungary-nb-1/
+12:13:00 [INFO]            → 40 records
+12:13:01 [INFO] [26/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-copa/
+12:13:01 [INFO]            → 0 records
+12:13:02 [INFO] [27/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-cup/
+12:13:02 [INFO]            → 26 records
+12:13:03 [INFO] [28/176] https://lines.bookmaker.eu/en/sports/soccer/club-friendly/
+12:13:04 [INFO]            → 225 records
+12:13:04 [INFO] [29/176] https://lines.bookmaker.eu/en/sports/soccer/poland-liga-i/
+12:13:05 [INFO]            → 26 records
+12:13:05 [INFO] [30/176] https://lines.bookmaker.eu/en/sports/soccer/spain-la-liga/
+12:13:06 [INFO]            → 68 records
+12:13:07 [INFO] [31/176] https://lines.bookmaker.eu/en/sports/soccer/italy-serie-a/
+12:13:07 [INFO]            → 68 records
+12:13:08 [INFO] [32/176] https://lines.bookmaker.eu/en/sports/soccer/usa-nwsl-women/
+12:13:08 [INFO]            → 35 records
+→ 14 records
+12:13:06 [INFO] [118/176] https://lines.bookmaker.eu/en/sports/soccer/bulgaria-first-professional-league/
+12:13:07 [INFO]            → 47 records
+12:13:07 [INFO] [119/176] https://lines.bookmaker.eu/en/sports/soccer/central-american-and-caribbean-games-w/
+12:13:08 [INFO]            → 28 records
+12:13:08 [INFO] [120/176] https://lines.bookmaker.eu/en/sports/table-tennis/tt-tt-cup/
+12:13:22 [INFO] Discovering game-line URLs…
+12:13:24 [INFO] Found 176 game-line URLs
+12:13:24 [INFO] [1/176] https://lines.bookmaker.eu/en/sports/basketball/wnba/
+12:13:24 [INFO]            → 12 records
+12:13:24 [INFO] [2/176] https://lines.bookmaker.eu/en/sports/basketball/big-3-league/
+12:13:25 [INFO]            → 0 records
+12:13:26 [INFO] [3/176] https://lines.bookmaker.eu/en/sports/basketball/bk-puerto-rico-superior-nacional/
+12:13:26 [INFO]            → 0 records
+12:13:26 [INFO] [4/176] https://lines.bookmaker.eu/en/sports/football/nfl/
+12:13:27 [INFO]            → 102 records
+12:13:27 [INFO] [5/176] https://lines.bookmaker.eu/en/sports/football/nfl-preseason/
+12:13:28 [INFO]            → 0 records
+12:13:28 [INFO] [6/176] https://lines.bookmaker.eu/en/sports/football/college-football/
+12:13:30 [INFO]            → 294 records
+12:13:30 [INFO] [7/176] https://lines.bookmaker.eu/en/sports/football/cfl-canadian-football/
+12:13:31 [INFO]            → 16 records
+12:13:31 [INFO] [8/176] https://lines.bookmaker.eu/en/sports/baseball/mlb/
+12:13:32 [INFO]            → 72 records
+12:13:32 [INFO] [9/176] https://lines.bookmaker.eu/en/sports/baseball/mlb-series/
+12:13:33 [INFO]            → 6 records
+12:13:33 [INFO] [10/176] https://lines.bookmaker.eu/en/sports/baseball/taiwan-cpbl/
+12:13:34 [INFO]            → 18 records
+12:13:34 [INFO] [11/176] https://lines.bookmaker.eu/en/sports/baseball/japan-npb-all-star/
+12:13:35 [INFO]            → 6 records
+12:13:36 [INFO] [12/176] https://lines.bookmaker.eu/en/sports/baseball/korea-rep-kbo-league/
+12:13:36 [INFO]            → 24 records
+12:13:37 [INFO] [13/176] https://lines.bookmaker.eu/en/sports/baseball/mexican-baseball-lmb/
+12:13:37 [INFO]            → 0 records
+12:13:38 [INFO] [14/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-top-5/
+12:13:38 [INFO]            → 0 records
+12:13:39 [INFO] [15/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-matchups/
+12:13:40 [INFO]            → 136 records
+12:13:40 [INFO] [16/176] https://lines.bookmaker.eu/en/sports/golf/lpga-aig-women-s-open-matchups/
+12:13:41 [INFO]            → 30 records
+12:13:41 [INFO] [17/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-make-the-cut/
+12:13:42 [INFO]            → 0 records
+12:13:42 [INFO] [18/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-round-leader/
+12:13:43 [INFO]            → 0 records
+12:13:43 [INFO] [19/176] https://lines.bookmaker.eu/en/sports/golf/pga-rocket-classic-round-matchups/
+12:13:44 [INFO]            → 120 records
+12:13:45 [INFO] [20/176] https://lines.bookmaker.eu/en/sports/mma/mma-ufc/
+12:13:45 [INFO]            → 50 records
+12:13:46 [INFO] [21/176] https://lines.bookmaker.eu/en/sports/boxing/boxing/
+12:13:46 [INFO]            → 14 records
+12:13:47 [INFO] [22/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls/
+12:13:47 [INFO]            → 105 records
+12:13:48 [INFO] [23/176] https://lines.bookmaker.eu/en/sports/soccer/usa-mls-all-star/
+12:13:48 [INFO]            → 7 records
+12:13:49 [INFO] [24/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-northern-nsw/
+12:13:49 [INFO]            → 7 records
+12:13:50 [INFO] [25/176] https://lines.bookmaker.eu/en/sports/soccer/hungary-nb-1/
+12:13:50 [INFO]            → 40 records
+12:13:51 [INFO] [26/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-copa/
+12:13:51 [INFO]            → 0 records
+12:13:52 [INFO] [27/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-cup/
+12:13:52 [INFO]            → 26 records
+12:13:53 [INFO] [28/176] https://lines.bookmaker.eu/en/sports/soccer/club-friendly/
+12:13:53 [INFO]            → 225 records
+12:13:54 [INFO] [29/176] https://lines.bookmaker.eu/en/sports/soccer/poland-liga-i/
+12:13:55 [INFO]            → 26 records
+12:13:55 [INFO] [30/176] https://lines.bookmaker.eu/en/sports/soccer/spain-la-liga/
+12:13:56 [INFO]            → 68 records
+12:13:56 [INFO] [31/176] https://lines.bookmaker.eu/en/sports/soccer/italy-serie-a/
+12:13:57 [INFO]            → 68 records
+12:13:57 [INFO] [32/176] https://lines.bookmaker.eu/en/sports/soccer/usa-nwsl-women/
+12:13:58 [INFO]            → 35 records
+12:13:58 [INFO] [33/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-super-cup/
+12:13:59 [INFO]            → 7 records
+12:13:59 [INFO] [34/176] https://lines.bookmaker.eu/en/sports/soccer/germany-3-liga/
+12:14:00 [INFO]            → 34 records
+12:14:01 [INFO] [35/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-serie-a/
+12:14:01 [INFO]            → 108 records
+12:14:02 [INFO] [36/176] https://lines.bookmaker.eu/en/sports/soccer/romania-liga-1/
+12:14:02 [INFO]            → 100 records
+12:14:03 [INFO] [37/176] https://lines.bookmaker.eu/en/sports/soccer/uzbekistan-pfl/
+12:14:03 [INFO]            → 7 records
+12:14:04 [INFO] [38/176] https://lines.bookmaker.eu/en/sports/soccer/latvia-virsliga/
+12:14:04 [INFO]            → 27 records
+12:14:05 [INFO] [39/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkonen/
+12:14:05 [INFO]            → 35 records
+12:14:06 [INFO] [40/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-1-deild/
+12:14:06 [INFO]            → 28 records
+12:14:07 [INFO] [41/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-1-liga/
+12:14:07 [INFO]            → 61 records
+12:14:08 [INFO] [42/176] https://lines.bookmaker.eu/en/sports/soccer/england-efl-cup/
+12:14:09 [INFO]            → 231 records
+12:14:09 [INFO] [43/176] https://lines.bookmaker.eu/en/sports/soccer/lithuania-a-lyga/
+12:14:10 [INFO]            → 19 records
+12:14:10 [INFO] [44/176] https://lines.bookmaker.eu/en/sports/soccer/montenegro-1-cfl/
+12:14:11 [INFO]            → 35 records
+12:14:11 [INFO] [45/176] https://lines.bookmaker.eu/en/sports/soccer/copa-sudamericana/
+12:14:12 [INFO]            → 84 records
+12:14:12 [INFO] [46/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-super-cup/
+12:14:13 [INFO]            → 7 records
+12:14:13 [INFO] [47/176] https://lines.bookmaker.eu/en/sports/soccer/norway-1-division/
+12:14:14 [INFO]            → 52 records
+12:14:14 [INFO] [48/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-superettan/
+12:14:15 [INFO]            → 54 records
+12:14:15 [INFO] [49/176] https://lines.bookmaker.eu/en/sports/soccer/china-superleague/
+12:14:16 [INFO]            → 54 records
+12:14:16 [INFO] [50/176] https://lines.bookmaker.eu/en/sports/soccer/copa-libertadores/
+12:14:17 [INFO]            → 52 records
+12:14:18 [INFO] [51/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-fa-cup/
+12:14:18 [INFO]            → 82 records
+12:14:19 [INFO] [52/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-league/
+12:14:19 [INFO]            → 122 records
+12:14:20 [INFO] [53/176] https://lines.bookmaker.eu/en/sports/soccer/slovenia-prva-liga/
+12:14:20 [INFO]            → 33 records
+12:14:21 [INFO] [54/176] https://lines.bookmaker.eu/en/sports/soccer/slovakia-superliga/
+12:14:22 [INFO]            → 42 records
+12:14:22 [INFO] [55/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-supercup/
+12:14:23 [INFO]            → 0 records
+12:14:23 [INFO] [56/176] https://lines.bookmaker.eu/en/sports/soccer/finland-ykkosliiga/
+12:14:24 [INFO]            → 33 records
+12:14:24 [INFO] [57/176] https://lines.bookmaker.eu/en/sports/soccer/poland-ekstraklasa/
+12:14:25 [INFO]            → 56 records
+12:14:25 [INFO] [58/176] https://lines.bookmaker.eu/en/sports/soccer/austria-erste-liga/
+12:14:25 [INFO]            → 54 records
+12:14:26 [INFO] [59/176] https://lines.bookmaker.eu/en/sports/soccer/austria-bundesliga/
+12:14:27 [INFO]            → 40 records
+12:14:27 [INFO] [60/176] https://lines.bookmaker.eu/en/sports/soccer/germany-bundesliga/
+12:14:28 [INFO]            → 63 records
+12:14:28 [INFO] [61/176] https://lines.bookmaker.eu/en/sports/soccer/sweden-allsvenskan/
+12:14:29 [INFO]            → 42 records
+12:14:29 [INFO] [62/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-sas-ligaen/
+12:14:30 [INFO]            → 42 records
+12:14:30 [INFO] [63/176] https://lines.bookmaker.eu/en/sports/soccer/norway-eliteserien/
+12:14:31 [INFO]            → 56 records
+12:14:31 [INFO] [64/176] https://lines.bookmaker.eu/en/sports/soccer/portugal-super-cup/
+12:14:32 [INFO]            → 7 records
+12:14:32 [INFO] [65/176] https://lines.bookmaker.eu/en/sports/soccer/iceland-besta-deild/
+12:14:33 [INFO]            → 40 records
+12:14:33 [INFO] [66/176] https://lines.bookmaker.eu/en/sports/soccer/ecuador-liga-serie-a/
+12:14:34 [INFO]            → 47 records
+12:14:34 [INFO] [67/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-premiership/
+12:14:35 [INFO]            → 42 records
+12:14:35 [INFO] [68/176] https://lines.bookmaker.eu/en/sports/soccer/usa-usl-championship/
+12:14:36 [INFO]            → 96 records
+12:14:37 [INFO] [69/176] https://lines.bookmaker.eu/en/sports/soccer/croatia-hnl-league-1/
+12:14:37 [INFO]            → 26 records
+12:14:38 [INFO] [70/176] https://lines.bookmaker.eu/en/sports/soccer/estonia-meistriliiga/
+12:14:38 [INFO]            → 38 records
+12:14:39 [INFO] [71/176] https://lines.bookmaker.eu/en/sports/soccer/denmark-1st-division/
+12:14:39 [INFO]            → 36 records
+12:14:40 [INFO] [72/176] https://lines.bookmaker.eu/en/sports/soccer/chile-copa-de-la-liga/
+12:14:40 [INFO]            → 0 records
+12:14:41 [INFO] [73/176] https://lines.bookmaker.eu/en/sports/soccer/belarus-vysshaya-liga/
+12:14:41 [INFO]            → 33 records
+12:14:42 [INFO] [74/176] https://lines.bookmaker.eu/en/sports/soccer/brazil-copa-do-brasil/
+12:14:43 [INFO]            → 56 records
+12:14:43 [INFO] [75/176] https://lines.bookmaker.eu/en/sports/soccer/canada-premier-league/
+12:14:44 [INFO]            → 26 records
+12:14:44 [INFO] [76/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-champions-league/
+12:14:45 [INFO]            → 115 records
+12:14:45 [INFO] [77/176] https://lines.bookmaker.eu/en/sports/soccer/finland-veikkausliiga/
+12:14:46 [INFO]            → 38 records
+12:14:46 [INFO] [78/176] https://lines.bookmaker.eu/en/sports/soccer/russia-premier-league/
+12:14:47 [INFO]            → 108 records
+12:14:47 [INFO] [79/176] https://lines.bookmaker.eu/en/sports/soccer/romania-cupa-romaniei/
+12:14:48 [INFO]            → 55 records
+12:14:48 [INFO] [80/176] https://lines.bookmaker.eu/en/sports/soccer/peru-primera-division/
+12:14:49 [INFO]            → 64 records
+12:14:49 [INFO] [81/176] https://lines.bookmaker.eu/en/sports/soccer/scotland-championship/
+12:14:50 [INFO]            → 12 records
+12:14:50 [INFO] [82/176] https://lines.bookmaker.eu/en/sports/soccer/germany-2nd-bundesliga/
+12:14:51 [INFO]            → 63 records
+12:14:52 [INFO] [83/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-victoria/
+12:14:52 [INFO]            → 14 records
+12:14:53 [INFO] [84/176] https://lines.bookmaker.eu/en/sports/soccer/chile-primera-division/
+12:14:53 [INFO]            → 50 records
+12:14:54 [INFO] [85/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-first-division/
+12:14:54 [INFO]            → 33 records
+12:14:55 [INFO] [86/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-eredivisie/
+12:14:55 [INFO]            → 61 records
+12:14:56 [INFO] [87/176] https://lines.bookmaker.eu/en/sports/soccer/paraguay-copa-paraguay/
+12:14:56 [INFO]            → 14 records
+12:14:57 [INFO] [88/176] https://lines.bookmaker.eu/en/sports/soccer/belgium-jupiler-league/
+12:14:57 [INFO]            → 63 records
+12:14:58 [INFO] [89/176] https://lines.bookmaker.eu/en/sports/soccer/england-premier-league/
+12:14:58 [INFO]            → 68 records
+12:14:59 [INFO] [90/176] https://lines.bookmaker.eu/en/sports/soccer/australia-australia-cup/
+12:14:59 [INFO]            → 14 records
+12:15:00 [INFO] [91/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-challenge/
+12:15:01 [INFO]            → 52 records
+12:15:01 [INFO] [92/176] https://lines.bookmaker.eu/en/sports/soccer/england-national-league/
+12:15:02 [INFO]            → 82 records
+12:15:02 [INFO] [93/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-mx-apertura/
+12:15:03 [INFO]            → 57 records
+12:15:03 [INFO] [94/176] https://lines.bookmaker.eu/en/sports/soccer/ireland-premier-division/
+12:15:04 [INFO]            → 35 records
+12:15:04 [INFO] [95/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-super-league/
+12:15:05 [INFO]            → 40 records
+12:15:05 [INFO] [96/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-copa-argentina/
+12:15:06 [INFO]            → 0 records
+12:15:07 [INFO] [97/176] https://lines.bookmaker.eu/en/sports/soccer/uruguay-primera-division/
+12:15:07 [INFO]            → 56 records
+12:15:08 [INFO] [98/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-queensland/
+12:15:08 [INFO]            → 12 records
+12:15:09 [INFO] [99/176] https://lines.bookmaker.eu/en/sports/soccer/u20-concacaf-championship/
+12:15:09 [INFO]            → 12 records
+12:15:10 [INFO] [100/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-primera-division/
+12:15:10 [INFO]            → 161 records
+12:15:11 [INFO] [101/176] https://lines.bookmaker.eu/en/sports/soccer/argentina-primera-nacional/
+12:15:13 [INFO]            → 106 records
+12:15:14 [INFO] [102/176] https://lines.bookmaker.eu/en/sports/soccer/colombia-primera-a-clausura/
+12:15:14 [INFO]            → 61 records
+12:15:15 [INFO] [103/176] https://lines.bookmaker.eu/en/sports/soccer/faroe-island-premier-league/
+12:15:15 [INFO]            → 3 records
+12:15:16 [INFO] [104/176] https://lines.bookmaker.eu/en/sports/soccer/africa-cup-of-nations-women/
+12:15:16 [INFO]            → 14 records
+12:15:17 [INFO] [105/176] https://lines.bookmaker.eu/en/sports/soccer/south-africa-premier-league/
+12:15:17 [INFO]            → 47 records
+12:15:18 [INFO] [106/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-wk-league-women/
+12:15:18 [INFO]            → 7 records
+12:15:19 [INFO] [107/176] https://lines.bookmaker.eu/en/sports/soccer/switzerland-challenge-league/
+12:15:19 [INFO]            → 33 records
+12:15:20 [INFO] [108/176] https://lines.bookmaker.eu/en/sports/soccer/south-korea-k-league-classic/
+12:15:20 [INFO]            → 40 records
+12:15:21 [INFO] [109/176] https://lines.bookmaker.eu/en/sports/soccer/concacaf-central-american-cup/
+12:15:21 [INFO]            → 21 records
+12:15:22 [INFO] [110/176] https://lines.bookmaker.eu/en/sports/soccer/uefa-europa-conference-league/
+12:15:23 [INFO]            → 313 records
+12:15:24 [INFO] [111/176] https://lines.bookmaker.eu/en/sports/soccer/czech-republic-gambrinus-liga/
+12:15:26 [INFO]            → 52 records
+12:15:27 [INFO] [112/176] https://lines.bookmaker.eu/en/sports/soccer/australia-npl-capital-football/
+12:15:27 [INFO]            → 7 records
+12:15:28 [INFO] [113/176] https://lines.bookmaker.eu/en/sports/soccer/netherlands-johan-cruyff-shield/
+12:15:28 [INFO]            → 7 records
+12:15:29 [INFO] [114/176] https://lines.bookmaker.eu/en/sports/soccer/russia-football-national-league/
+12:15:30 [INFO]            → 40 records
+12:15:30 [INFO] [115/176] https://lines.bookmaker.eu/en/sports/soccer/costa-rica-1st-division-apertura/
+12:15:31 [INFO]            → 21 records
+12:15:31 [INFO] [116/176] https://lines.bookmaker.eu/en/sports/soccer/mexico-liga-expansion-mx-apertura/
+12:15:32 [INFO]            → 50 records
+12:15:32 [INFO] [117/176] https://lines.bookmaker.eu/en/sports/soccer/el-salvador-1st-division-apertura/
+12:15:34 [INFO]            → 14 records

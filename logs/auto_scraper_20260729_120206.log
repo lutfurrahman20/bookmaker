@@ -1,0 +1,42 @@
+12:02:06 [INFO] =================================================================
+12:02:06 [INFO]   BookMaker.eu Auto Scraper Orchestrator
+12:02:06 [INFO]   Scrapers : live, pregame, futures
+12:02:06 [INFO]   Schedule :
+12:02:06 [INFO]     Live Scraper         every 1s–5s  (crash cool-down: 1s–5s)
+12:02:06 [INFO]     Pregame Scraper      every 10s–15s  (crash cool-down: 10s–15s)
+12:02:06 [INFO]     Futures Scraper      every 50s–55s  (crash cool-down: 50s–55s)
+12:02:06 [INFO]   Log dir  : F:\bookmaker\logs
+12:02:06 [INFO]   Press Ctrl+C to stop.
+12:02:06 [INFO] =================================================================
+12:02:06 [INFO] [Live Scraper] >> Starting run #1...
+12:02:08 [INFO] [Pregame Scraper] >> Starting run #1...
+12:02:10 [INFO] [Futures Scraper] >> Starting run #1...
+12:04:07 [INFO] [Futures Scraper] [OK] Run #1 completed in 1m 57s.
+12:04:07 [INFO] [Futures Scraper] Completed successfully — next run in 52s.
+12:04:59 [INFO] [Futures Scraper] >> Starting run #2...
+12:05:39 [INFO] [Live Scraper] [OK] Run #1 completed in 3m 33s.
+12:05:39 [INFO] [Live Scraper] Completed successfully — next run in 2s.
+12:05:42 [INFO] [Live Scraper] >> Starting run #2...
+12:06:54 [INFO] [Pregame Scraper] [OK] Run #1 completed in 4m 46s.
+12:06:54 [INFO] [Pregame Scraper] Completed successfully — next run in 11s.
+12:07:03 [INFO] [Futures Scraper] [OK] Run #2 completed in 2m 3s.
+12:07:03 [INFO] [Futures Scraper] Completed successfully — next run in 53s.
+12:07:05 [INFO] [Pregame Scraper] >> Starting run #2...
+12:07:12 [INFO] [Heartbeat] Live Scraper: runs=1, last=1m 32s ago, PID 7684 | Pregame Scraper: runs=1, last=17s ago, PID 20072 | Futures Scraper: runs=2, last=8s ago, waiting
+12:07:57 [INFO] [Futures Scraper] >> Starting run #3...
+12:09:26 [INFO] [Live Scraper] [OK] Run #2 completed in 3m 44s.
+12:09:26 [INFO] [Live Scraper] Completed successfully — next run in 4s.
+12:09:30 [INFO] [Live Scraper] >> Starting run #3...
+12:09:39 [INFO] [Futures Scraper] [OK] Run #3 completed in 1m 41s.
+12:09:39 [INFO] [Futures Scraper] Completed successfully — next run in 52s.
+12:10:32 [INFO] [Futures Scraper] >> Starting run #4...
+12:11:52 [INFO] [Pregame Scraper] [OK] Run #2 completed in 4m 46s.
+12:11:52 [INFO] [Pregame Scraper] Completed successfully — next run in 13s.
+12:12:06 [INFO] [Pregame Scraper] >> Starting run #3...
+12:12:12 [INFO] [Heartbeat] Live Scraper: runs=2, last=2m 45s ago, PID 8216 | Pregame Scraper: runs=2, last=20s ago, PID 6072 | Futures Scraper: runs=3, last=2m 33s ago, PID 9532
+12:12:18 [INFO] [Futures Scraper] [OK] Run #4 completed in 1m 46s.
+12:12:18 [INFO] [Futures Scraper] Completed successfully — next run in 50s.
+12:13:09 [WARNING] [Pregame Scraper] [FAIL] Run #3 exited with code 4294967295 after 1m 2s. Crash #1
+12:13:09 [INFO] [Pregame Scraper] Crashed (code 4294967295), cooling down — next run in 14s.
+12:13:09 [WARNING] [Live Scraper] [FAIL] Run #3 exited with code 4294967295 after 3m 38s. Crash #1
+12:13:09 [INFO] [Live Scraper] Crashed (code 4294967295), cooling down — next run in 1s.
