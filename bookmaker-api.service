@@ -1,0 +1,31 @@
+# systemd unit for BookMaker.eu FastAPI server
+# Install:
+#   sudo cp bookmaker-api.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now bookmaker-api
+
+[Unit]
+Description=BookMaker.eu Odds API
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/services/bookmaker
+EnvironmentFile=-/home/ubuntu/services/bookmaker/.env
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/home/ubuntu/services/bookmaker/venv/bin/python -m uvicorn api:app --host 127.0.0.1 --port 8055 --workers 1
+Restart=always
+RestartSec=5
+TimeoutStopSec=30
+LimitNOFILE=65536
+MemoryMax=1G
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=bookmaker-api
+
+[Install]
+WantedBy=multi-user.target

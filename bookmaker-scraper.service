@@ -1,0 +1,33 @@
+# systemd unit for BookMaker.eu continuous scrapers
+# Install:
+#   sudo cp bookmaker-scraper.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now bookmaker-scraper
+
+[Unit]
+Description=BookMaker.eu Continuous Odds Scrapers
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/services/bookmaker
+EnvironmentFile=-/home/ubuntu/services/bookmaker/.env
+Environment=PYTHONUNBUFFERED=1
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/home/ubuntu/services/bookmaker/venv/bin/python auto_scraper.py
+Restart=always
+RestartSec=10
+TimeoutStopSec=45
+KillMode=control-group
+LimitNOFILE=65536
+MemoryMax=1G
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=bookmaker-scraper
+
+[Install]
+WantedBy=multi-user.target
